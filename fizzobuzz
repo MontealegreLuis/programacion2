@@ -1,0 +1,15 @@
+object FizzoBuzz{
+
+ def main(args:Array[String]){
+	 for (a <- 1 to 30){
+		if (((a % 3) == 0) && ((a % 5) == 0))
+			println("Fizz Buzz")
+		else if ((a % 3) == 0)
+			println("Fizz")
+		else if ((a % 5) == 0)
+			println("Buzz")
+		else
+			println(a)
+ 	}
+}
+}
