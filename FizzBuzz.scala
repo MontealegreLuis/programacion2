@@ -1,6 +1,6 @@
 object FizzBuzz{
-  def main(args:Aarray[String]){
-    for(i <- to 100){                               // <console>:3: error: ')' expected but integer literal found.
+  def main(args: Array[String]){
+    for(i <- 1 to 100){                               // <console>:3: error: ')' expected but integer literal found.
       if(i % 3 == 0 && i % 5 == 0){                 //            for(i <- to 100){
         println("FizzBuzz")                         //                        ^
       }else if(i % 3 == 0){
