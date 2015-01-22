@@ -2,7 +2,7 @@ object Fizz_Buzz{
 
 	def main(args:Array[String]){
 
-	for (x <- 1 to 20)
+	for (x <- 1 to 100)
 	{
 		if (((x % 3)== 0) && ((x % 5)== 0))
 			println("Fizz Buzz")
