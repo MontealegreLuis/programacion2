@@ -13,7 +13,6 @@ class Rational (n: Int, d: Int){
 			gcd( b, a % b )
 		}
 	}
-}
 
 def add( b: Rational ): Rational = {
 	new Rational ( numerator * b.denominador + denominador * b.numerator , denominador * b.denominador)
@@ -30,4 +29,6 @@ def multiply( b: Rational ): Rational = {
 
 def divide( b:Rational ): Rational = {
 	new Rational( numerator * b.denominador , denominador * b.numerator)
+}
+
 }
