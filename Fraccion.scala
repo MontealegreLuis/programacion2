@@ -1,13 +1,30 @@
 class Fraccion (n: Int, d:Int)
 {
   //estos son los atributos
-    val numerador = n
-    val denominador =d
+    
   // Segundo contructor
   def  this(n: Int) = this(n,1)
 
-  //cracion de un objeto
-  val par = new Fraccion(1,2)
+  private val divisor = gcd( n.abs, d.abs )
+
+  val numerador = n / divisor
+  val denominador = d / divisor
+
+  private def gcd( a:Int , b:Int ): Int =
+  {
+      if (b==0)
+      {
+        a
+      }
+
+      else {
+
+        gcd(b,a%b)
+      }
+
+
+  }
+
 
   // creacion de los metodos de la interfaz
   def suma(b:Fraccion): Fraccion =
