@@ -59,12 +59,12 @@ Class: Mano|
 
 ##Diagrama de clases para Blackjack
 
-![Diagrama de clases](/home/alfredo/Imágenes/1.jpg)
+![Diagrama de clases](/Diagramas/1.jpg)
 
 ***
 ***
 ##Diagrama de secuencia para Blackjack
 
-![Diagrama de secuencia1](/home/alfredo/Imágenes/E1.jpg)
+![Diagrama de secuencia1](/Diagramas/E1.jpg)
 
-![Diagrama de secuencia2](/home/alfredo/Imágenes/E2.jpg)
+![Diagrama de secuencia2](/Diagramas/E2.jpg)
