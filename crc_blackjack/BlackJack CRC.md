@@ -39,3 +39,14 @@ Pagar apuesta|Mano
 ---------|------------
 responder si desea carta|mano
 apostar |banca
+
+###Class:Mano
+---------
+
+**Responsabilidades**|**Colaboraciones**
+---------|------------
+Saber su numero de cartas|jugador
+Saber el valor de sus cartas |banca
+Agregar carta|
+Mostrar cartas|
+
