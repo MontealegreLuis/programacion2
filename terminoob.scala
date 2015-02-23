@@ -6,7 +6,7 @@ object Polinomio{
 	var t2 = new termino (8,2)
 	var t3 = new termino (3,3)
 
-
+	
 
 
 } 
