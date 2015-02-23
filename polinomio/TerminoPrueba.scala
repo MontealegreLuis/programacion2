@@ -8,7 +8,7 @@ object TerminoPrueba {
     esVerdadero(termino2.tieneMismoGrado(termino3),"11x² debe tener el mismo grado que 5x³")
   }
   def esVerdadero(resultado:Boolean, mensaje:String){
-    if(resultado){
+    if(!resultado){
       println(mensaje)
     }
   }

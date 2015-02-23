@@ -11,4 +11,15 @@ class Termino(c:Float,e:Int){
   def tieneMismoGrado(t:Termino):Boolean = {
     this exponente == t.exponente
   }
+
+  def reducir(t:Termino):Termino ={
+    if(tieneMismoGarado(t)){
+      return new Termino(this.coeficiente + t.coeficiente, this.exponente)
+    }
+    t
+  }
+
+  def esIgual(t:Termino):Boolean ={
+    this.coeficiente == t.coeficiente && this.exponente == t.exponente
+  }
 }

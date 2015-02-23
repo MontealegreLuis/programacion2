@@ -2,9 +2,14 @@ class Polinomio{
   private val terminos = new Array[Termino](2)
   var actual = 0
   def agrega(t:Termino)={
+    for(i <- 0 to 2){
+      if(t.exponente == i+1){
+        if(terminos(i) != null){
+          t.reducir(terminos(i))
+        }
+      }
+    }
 
-    terminos(actual) = t
-    actual++
   }
 
   def evalua(x:Float):Float = {
