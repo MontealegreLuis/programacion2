@@ -17,7 +17,7 @@ class termino(c: Float, e: Int){
 	}
 	
 	def reducir(t:termino):termino = {		
-		if (c != this.exponente){
+		if (e == this.exponente){
 		       var te = new termino(this.coeficiente+c,e)
 		       te
 		}
