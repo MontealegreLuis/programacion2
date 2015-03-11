@@ -1,32 +1,80 @@
-class Polinomio(grado: Int){
-  private val Terminos = new Array [Termino](grado)
-    def agregaTermino(c: Float, e: Int)={
-      val termino = new Termino(c,e)
-      if(Terminos(e-1)!=null){
-        Terminos(e-1)=Terminos(e-1).reducir(termino)
+class Polinomio(g: Int) {
+  private val terminos = new Array[Termino](g + 1)
+  private val grado = g
+
+  def agregarTermino(c: Float, e: Int) = {
+      val termino = new Termino(c, e)
+
+      if (terminos(e) != null) {
+        terminos(e) = terminos(e).reducir(termino)
+      } else {
+        terminos(e) = termino
       }
-      else{
-        Terminos(e-1)=termino
+  }
+
+  private def agregarTermino(t: Termino) = {
+    if (terminos(t.grado()) != null) {
+      terminos(t.grado()) = terminos(t.grado()).reducir(t)
+    } else {
+      terminos(t.grado()) = t
+    }
+  }
+
+  def evaluar(x: Float): Float = {
+    var resultado: Float = 0
+
+    for (termino <- terminos) {
+      if (termino != null) {
+        resultado = resultado + termino.evaluar(x)
       }
     }
 
-  def eval(x:Float):Float = {
-    var res:Float = 0
-    var i=0
-    for(termino <- Terminos){
-      if(termino != null){
-        res = res + termino.eval(x)
+    resultado
+  }
+
+  def mostrar(): String = {
+    var polinomio = ""
+    for (i <- 0 to grado - 1) {
+      if (terminos(i) != null) {
+        polinomio = polinomio + terminos(i).mostrar() + " + "
       }
     }
-    res
+
+    polinomio + terminos(grado).mostrar()
   }
-  def mostrar(): String={
-    var polinomio=""
-    for(i<-0 to grado-2){
-      if(termino!=null){
-        polinomio=polinomio+ termino.mostrar + "+"
+
+    def sumar(b: Polinomio): Polinomio = {
+      var g: Int = 0
+      var menor = new Polinomio(0)
+      var mayor = new Polinomio(0)
+
+      if (this.grado >= b.grado) {
+        g = this.grado
+        menor = b
+        mayor = this
+      } else {
+        g = b.grado
+        menor = this
+        mayor = b
       }
-    }
-    polinomio=polinomio+ termino.mostrar
+
+        val resultado = new Polinomio(g)
+        for (i <- 0 to menor.grado) {
+            if (menor.terminos(i) != null && mayor.terminos(i) == null) {
+              resultado.agregarTermino(menor.terminos(i))
+            } else if (menor.terminos(i) == null && mayor.terminos(i) != null) {
+                resultado.agregarTermino(mayor.terminos(i))
+            } else if (menor.terminos(i) != null && mayor.terminos(i) != null) {
+              resultado.agregarTermino(menor.terminos(i).reducir(mayor.terminos(i)))
+        }
+      }
+
+        for (i <- menor.grado to mayor.grado) {
+          if (mayor.terminos(i) != null) {
+                resultado.agregarTermino(mayor.terminos(i))
+          }
+        }
+
+        resultado
+          }
   }
-}
