@@ -70,12 +70,12 @@ class Polinomio(g: Int) {
             }
         }
 
-        for (i <- menor.grado to mayor.grado) {
+        for (i <- menor.grado + 1 to mayor.grado) {
             if (mayor.terminos(i) != null) {
                 resultado.agregarTermino(mayor.terminos(i))
             }
         }
-
+x
         resultado
     }
 }
