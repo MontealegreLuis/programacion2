@@ -35,6 +35,9 @@ class Termino(c: Float, e: Int) {
     }
 
     def mostrar() : String = {
-        coeficiente + "x^" + exponente
+        if (coeficiente != 0) {
+            return coeficiente + "x^" + exponente
+        }
+        return ""
     }
 }

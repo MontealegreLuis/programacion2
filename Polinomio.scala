@@ -3,30 +3,25 @@ class Polinomio(g: Int) {
     private val grado = g
 
     def agregarTermino(c: Float, e: Int) = {
-        val termino = new Termino(c, e)
-
-        if (terminos(e) != null) {
-            terminos(e) = terminos(e).reducir(termino)
-        } else {
-            terminos(e) = termino
-        }
+        terminos(e) = terminoDeGrado(e).reducir(new Termino(c, e))
     }
 
     private def agregarTermino(t: Termino) = {
-        if (terminos(t.grado()) != null) {
-            terminos(t.grado()) = terminos(t.grado()).reducir(t)
-        } else {
-            terminos(t.grado()) = t
+        terminos(t.grado()) = terminoDeGrado(t.grado()).reducir(t)
+    }
+
+    private def terminoDeGrado(n: Int): Termino = {
+        if (terminos(n) == null) {
+            terminos(n) = new Termino(0, n)
         }
+        terminos(n)
     }
 
     def evaluar(x: Float): Float = {
         var resultado: Float = 0
 
-        for (termino <- terminos) {
-            if (termino != null) {
-                resultado = resultado + termino.evaluar(x)
-            }
+        for (i <- 0 to grado) {
+            resultado = resultado + terminoDeGrado(i).evaluar(x)
         }
 
         resultado
@@ -35,13 +30,15 @@ class Polinomio(g: Int) {
     def mostrar(): String = {
         var polinomio = ""
 
-        for (i <- 0 to grado - 1) {
-            if (terminos(i) != null) {
-                polinomio = polinomio + terminos(i).mostrar() + " + "
+        for (i <- 0 to grado) {
+            val termino = terminoDeGrado(i).mostrar()
+
+            if (termino != "") {
+                polinomio = polinomio.concat(termino + " + ")
             }
         }
 
-        polinomio + terminos(grado).mostrar()
+        return polinomio.stripSuffix(" + ")
     }
 
     def sumar(b: Polinomio): Polinomio = {
@@ -61,21 +58,13 @@ class Polinomio(g: Int) {
 
         val resultado = new Polinomio(g)
         for (i <- 0 to menor.grado) {
-            if (menor.terminos(i) != null && mayor.terminos(i) == null) {
-                resultado.agregarTermino(menor.terminos(i))
-            } else if (menor.terminos(i) == null && mayor.terminos(i) != null) {
-                resultado.agregarTermino(mayor.terminos(i))
-            } else if (menor.terminos(i) != null && mayor.terminos(i) != null) {
-                resultado.agregarTermino(menor.terminos(i).reducir(mayor.terminos(i)))
-            }
+            resultado.agregarTermino(menor.terminoDeGrado(i).reducir(mayor.terminoDeGrado(i)))
         }
 
         for (i <- menor.grado + 1 to mayor.grado) {
-            if (mayor.terminos(i) != null) {
-                resultado.agregarTermino(mayor.terminos(i))
-            }
+            resultado.agregarTermino(mayor.terminoDeGrado(i))
         }
-x
+
         resultado
     }
 }
