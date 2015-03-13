@@ -1,4 +1,4 @@
-object Polinomio{
+ object Polinomio{
 
     def main (args: Array[String]){
       var p1 = new Array[Int](8)
