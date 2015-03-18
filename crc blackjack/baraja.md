@@ -8,6 +8,4 @@ repartir la siguiente carta|reportar valores(banca)
 reportar cuantas cartas quedan en la baraja|
 
 
-
-
-![jugadorgana](/home/mario/Escritorio/diagramajugadorganablack.png) 
+![jugadorgana](diagramajugadorganablack.png) 

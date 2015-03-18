@@ -13,4 +13,4 @@ empezar nuevo juego|
 
 
 
-![diagramaclases](/home/mario/Escritorio/DRAGRAMACLASESBLACK.png) 
+![diagramaclases](DRAGRAMACLASESBLACK.png) 
