@@ -28,5 +28,6 @@ object PolinomioMain {
       var pol = new Polinomio(n)
       pol=p1.sumar(p2)
     }
+    println(pol.mostrar())
   }
 }
