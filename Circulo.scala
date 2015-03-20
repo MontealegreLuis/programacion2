@@ -1,8 +1,8 @@
-class Circulo extends Figura {
+class Circulo(radio: Double) extends Figura {
+    private var r = radio
     private val pi : Double = 3.14
-    private var resultado : Double = 0
-    def area(radio: Double): Double = {
-       var r= radio
-        resultado = (r * r) * pi
+
+    def area(): Double = {
+        (r * r) * pi
     }
 }

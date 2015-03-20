@@ -12,14 +12,14 @@ object FigurasTest {
           x = readDouble()
           println("Ingresa la altura ")
           y = readDouble()
-          val rectangulo = new Rectangulo()
-          println(rectangulo.area(x, y))
+          val rectangulo = new Rectangulo(x, y)
+          println(rectangulo.area())
         }
         if(opcion==2){
           println("Ingresa el radio del circulo")
           z = readDouble()
-          val circulo = new Circulo()
-          println(circulo.area(z))
+          val circulo = new Circulo(z)
+          println(circulo.area())
         }
     }
 }
