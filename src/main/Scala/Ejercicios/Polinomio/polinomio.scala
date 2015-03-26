@@ -1,4 +1,6 @@
-object Polinomio{
+package Ejercicios.Polinomio
+
+object Polinomio2{
 
    def main(args:Array[String]){
 

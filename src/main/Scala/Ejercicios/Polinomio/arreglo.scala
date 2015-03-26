@@ -1,3 +1,5 @@
+package Ejercicios.Polinomio
+
 object Polinomio{
 
 	def main(args:Array[String]){

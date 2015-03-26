@@ -1,3 +1,5 @@
+package Ejercicios.Fizz_buzz
+
 object Fizz_Buzz{
 
 	def main(args:Array[String]){
