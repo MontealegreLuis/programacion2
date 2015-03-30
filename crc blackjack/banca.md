@@ -13,3 +13,4 @@ empezar nuevo juego|
 
 
 
+![diagramaclases](DRAGRAMACLASESBLACK.png) 

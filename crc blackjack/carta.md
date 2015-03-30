@@ -6,3 +6,6 @@ responsabilidades|colaboraciones
 --------------------------|---------------------
 saber su valor y reportarlo|reportar su valor(mano)
 debe ser parte de una baraja|ser parte de una baraja(baraja)
+
+
+![jugador pierde](jugadorpIERDE.png) 

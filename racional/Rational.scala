@@ -12,7 +12,17 @@ class Rational(n: Int , d: Int){
   }
 
   def add(b: Rational):Rational = {//metodo que suma dos fracciones
-    new Rational(numerador * b.denominador + denominador * b.numerador , denominador * b.denominador)
+    var num : Int = 0
+    var den : Int = 0
+    if(this.denominador == b.denominador){
+      num = this.numerador + b.numerador
+      return new Rational(num,this.denominador)
+    }else{
+      num = this.numerador * b.denominador + b.numerador * this.denominador
+      den = this.denominador * b.denominador
+      return new Rational(num,den)
+    }
+
   }
 
   def subtrac(b: Rational):Rational = {
@@ -26,4 +36,5 @@ class Rational(n: Int , d: Int){
   def divide(b: Rational):Rational ={
     new Rational(numerador * b.denominador , denominador * b.numerador)
   }
+
 }

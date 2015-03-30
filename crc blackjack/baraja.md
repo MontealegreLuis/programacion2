@@ -6,3 +6,6 @@ responsabilidades|colaboraciones
 --------------------------|---------------------
 repartir la siguiente carta|reportar valores(banca)
 reportar cuantas cartas quedan en la baraja|
+
+
+![jugadorgana](diagramajugadorganablack.png) 
