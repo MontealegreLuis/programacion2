@@ -1,0 +1,57 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2f378a22, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/mario/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes:/home/mario/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar:/home/mario/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar:/home/mario/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 6.067144026 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, opcion, asInstanceOf, executionStart, synchronized, $isInstanceOf, _args, main, initCode, notifyAll, isInstanceOf, respuesta, res, ==, clone, Universidad, toString, args, alumnos, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, direccion, wait, $asInstanceOf, equals, asInstanceOf, synchronized, numSeguroSocial, $isInstanceOf, car, matricula, nombre, notifyAll, sex, isInstanceOf, dir, <init>, nom, ==, clone, sexo, fechaNac, Alumno, toString, !=, getClass, fechaNacimiento, ne, eq, ##, finalize, hashCode, seguroSocial, carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(direccion, matricula, nombre, <init>, ==, sexo, Alumno, fechaNacimiento, carrera)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala by /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, direccion, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, nombre, notifyAll, isInstanceOf, <init>, ==, clone, sexo, Persona, toString, !=, getClass, fechaNacimiento, ne, eq, ##, finalize, hashCode, seguroSocial, carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(direccion, nombre, <init>, ==, sexo, fechaNacimiento, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala: Set(direccion, asInstanceOf, nombre, <init>, sexo, Persona, fechaNacimiento, seguroSocial, carrera)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
