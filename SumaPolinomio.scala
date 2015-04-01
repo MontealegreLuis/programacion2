@@ -1,4 +1,4 @@
- ̣object polinomio {
+object polinomio {
 
 def main(args:Array[String]){
 
