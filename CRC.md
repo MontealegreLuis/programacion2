@@ -5,52 +5,69 @@
 ###Primera Clase
 Class: Banca|
 ----------------- |----------------
- Responsabilidades:  | Colaboraciones: 
-*Repartir las cartas | *Baraja 
-*Repartir a los jugadores cartas adicionales|*Jugador
-*Mostrar toda o parte de una mano 
-*Calcular el valor de la totalidad o parte de una mano
-*Calcular el numero de cartas de una mano
-*Determinar el ganador 
-*Empezar una nueva mano
+ Responsabilidades:  |
+*Repartir las cartas|  
+*Repartir a los jugadores cartas adicionales|
+*Mostrar toda o parte de una mano|
+*Calcular el valor de la totalidad o parte de una mano|
+*Calcular el numero de cartas de una mano|
+*Determinar el ganador|
+*Empezar una nueva mano|
+Colaboraciones:|
+*Baraja|
+*Jugador|
+
 
 ***
 ***
 ###Segunda Clase
 Class: Jugador |
 ----------------- |----------------
- Responsabilidades:  | Colaboraciones: 
-*Pedir que se le reparta una carta a su mano |*Banca
-*Mostrar su mano|*Carta 
-*Calcular el valor de su mano|*Mano
-*Determinar el numero de cartas en su mano
+ Responsabilidades:  | 
+*Pedir que se le reparta una carta a su mano | 
+*Mostrar su mano|  
+*Calcular el valor de su mano| 
+*Determinar el numero de cartas en su mano|
+Colaboraciones:|
+*Banca|
+*Carta|
+*Mano|
 
 ***
 ***
 ###Tercera Clase
 Class: Baraja|
 ----------------- |----------------
- Responsabilidades:  | Colaboraciones: 
-*Poder repartir la siguiente carta|*Banca
-*Reportar cuantas cartas quedan en la baraja|*Carta
+ Responsabilidades:  |  
+*Poder repartir la siguiente carta|
+*Reportar cuantas cartas quedan en la baraja|
+Colaboraciones:|
+*Banca|
+*Carta|
 
 ***
 ***
 ###Cuarta Clase
 Class: Carta|
 ----------------- |----------------
- Responsabilidades:  | Colaboraciones: 
-*Saber su valor y debe ser capaz de reportarlo|*Banca
-*Todas las cartas deben de ser parte de una baraja|*Jugador
-|*Baraja
-|*Mano
+ Responsabilidades:  | 
+*Saber su valor y debe ser capaz de reportarlo|
+*Todas las cartas deben de ser parte de una baraja|
+Colaboraciones:|
+*Banca|
+*Jugador|
+*Baraja|
+*Mano|
 
 ***
 ***
 ###Quinta Clase
 Class: Mano|
 ----------------- |----------------
- Responsabilidades:  | Colaboraciones: 
-*Saber el numero de cartas que lo forman|*Banca
-*Saber la suma total de las cartas|*Jugador
-|*Carta
+ Responsabilidades:  | 
+*Saber el numero de cartas que lo forman|
+*Saber la suma total de las cartas|
+Colaboraciones:|
+*Banca|
+*Jugador|
+*Carta|
