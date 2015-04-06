@@ -8,4 +8,7 @@ class Alumnos{
   def conMatricula(mat : String):Alumno:Alumno ={
     this.matricula = mat
   }
+  def total():Int{
+    cont
+  }
 }
