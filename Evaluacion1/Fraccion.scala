@@ -1,4 +1,4 @@
-class Fraccion (n: Int, d:Int) {
+class Fraccion (n: Int, d:Int)  {
 
   def  this(n: Int) = this(n,1)
 
