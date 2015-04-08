@@ -1,0 +1,25 @@
+class Racional (n: Int , d: Int){
+private val divisor = mcd(n,d)
+val num = n / divisor
+val den = d / divisor
+
+private def mcd(a: Int , b: Int):Int={
+if(b == 0){
+return a
+}else{
+mcd(b , a % b)
+}
+}
+def add(b: Racional):Racional = {
+ new Racional(num * b.den + den * b.num , den * b.den)
+}
+def subtrac(b: Racional):Racional = {
+ new Racional(num* b.den - b.num * den, den* b.den)
+}
+def multiply(b: Racional):Racional ={
+ new Racional(num* b.num , den * b.den)
+}
+def divide(b: Racional):Racional ={
+ new Racional(num* b.den, den * b.num)
+ }
+}
