@@ -1,4 +1,4 @@
-Tarjetas CRC BlackJack 
+**Tarjetas CRC BlackJack** 
 Clase: Baraja
 Responsabilidades	                      Colaboraciones
 Repartir la siguiente carta	                Banca
@@ -8,7 +8,7 @@ Revolver baraja
 Clase: Jugador
 Responsabilidades	                       Colaboraciones
 Pedir que se le reparta una carta	         Banca
-Determinar el número de cartas en su mano	 Carta
+Determinar el nÃºmero de cartas en su mano	 Carta
 Mostrar su mano	
 Calcular el valor de su mano	
 
@@ -17,15 +17,15 @@ Responsabilidades	                       Colaboraciones
 Nuevo juego	Mano
 Reparte las cartas	Baraja
 Reparte a los jugadores cartas adicionales	Jugador
-Enseña  toda o parte de una mano	
-Calcula el número de cartas de una mano	
+EnseÃ±a  toda o parte de una mano	
+Calcula el nÃºmero de cartas de una mano	
 Dice quien es el  ganador	
 
 Clase: Mano
 Responsabilidades	                       Colaboraciones
-Conoce el número de cartas que tiene	        Jugador
+Conoce el nÃºmero de cartas que tiene	        Jugador
 Conoce el valor total de sus cartas	        Banca
-Enseña la mano de cartas	
+EnseÃ±a la mano de cartas	
 
 Clase: Carta
 Responsabilidades	                      Colaboraciones
