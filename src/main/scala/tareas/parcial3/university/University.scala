@@ -28,14 +28,14 @@ object University extends App{
                 case 1 => println("= Agregar Alumno =")
                     var opt = 0
                     var tof:Boolean = true
-                        while(tof == true || alumnos.total() < 20 ){
+                        while(tof == true || students.total() < 50 ){
                               println("\n Nombre: \n")
                               var name=readLine()
-                              println("\n Numero de Seguro Social: \n")
+                              println("\n Número de Seguro Social: \n")
                               var socialSecurityNumber=readLine()
                               println("\n Direccion: \n")
                               var address=readLine()
-                              println("\n Sexo [M / F] \n")
+                              println("\n Sexo[M/F]: \n")
                               var sex=readChar()
                               println("\n Fecha de Nacimiento \n")
                               println("\n Día: \n")
@@ -49,19 +49,19 @@ object University extends App{
                               var career = readLine()
                               printf("\n Matricula: \n")
                               var ID=readLine()
-                              val student = new Student(name,socialSecurityNumber,address,sex,dateOfBirth,career,ID)
+                              val student = new Student(name,socialSecurityNumber,address,sex,dateOfBirth)
                               students.add(student)
                                  if(students.total() >= 50){
                                     println("\nDisculpe las molestias, ya no se puede agregar más alumnos.\n")}
                                     else{
                                     }
-                            printf("\n Desea capturar datos de otro alumno? 1.> Si\t2.>No")
+                            printf("\n Desea ingresar otro alumno? 1. Si\t2. No")
                                 opt = readInt()
                                       if(opt == 1){
                                         tof = true}
                                         else{
                                             tof = false}
-                        }//while agregar.alumno
+                        }//while add.student
             }//match
         }//while menu
     }//def main
