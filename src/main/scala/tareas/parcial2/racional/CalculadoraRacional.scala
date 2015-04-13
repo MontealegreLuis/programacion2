@@ -1,4 +1,4 @@
-package parcial2.Racional
+package parcial2.racional
 object CalculadoraRacional{
     def main(args: Array[String]){
     var n = 0

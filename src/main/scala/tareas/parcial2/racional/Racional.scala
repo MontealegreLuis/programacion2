@@ -1,4 +1,4 @@
-package parcial2.Racional
+package parcial2.racional
 class Racional (n: Int , d: Int){
     private val divisor = mcd(n,d)
         val numerador = n / divisor
