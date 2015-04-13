@@ -49,9 +49,9 @@ object University extends App{
                               var career = readLine()
                               printf("\n Matricula: \n")
                               var ID=readLine()
-                              val student = new Alumno(nombre,numSegSocial,direccion,sexo,fechaNacimiento,carrera,matricula)
-                              alumnos.agregar(alumno)
-                                 if(alumnos.total() >= 50){
+                              val student = new Student(name,socialSecurityNumber,address,sex,dateOfBirth,career,ID)
+                              students.add(student)
+                                 if(students.total() >= 50){
                                     println("\nDisculpe las molestias, ya no se puede agregar más alumnos.\n")}
                                     else{
                                     }
