@@ -42,4 +42,3 @@ Todas las cartas deben ser parte de la baraja |
 
 
 [*Jorge Eduardo Montes Rios* **201321617**]
-
