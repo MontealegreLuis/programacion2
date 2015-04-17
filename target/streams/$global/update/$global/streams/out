@@ -7,13 +7,86 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dbccde7[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@441a0a01[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.github.nscala-time#nscala-time_2.10;1.8.0 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.github.nscala-time#nscala-time_2.10;1.8.0 {compile=[default(compile)]}[0m
+[0m[[0minfo[0m] [0mResolving com.github.nscala-time#nscala-time_2.10;1.8.0 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: com.github.nscala-time#nscala-time_2.10;1.8.0 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\shaka2512\.ivy2\local\com.github.nscala-time\nscala-time_2.10\1.8.0\ivys\ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for com.github.nscala-time#nscala-time_2.10;1.8.0[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for com.github.nscala-time#nscala-time_2.10;1.8.0[0m
+[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.pom (1.8.0)[0m
+[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.nscala-time#nscala-time_2.10;1.8.0!nscala-time_2.10.pom(pom.original) (673ms)[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\shaka2512\.ivy2\local\com.github.nscala-time\nscala-time_2.10\1.8.0\jars\nscala-time_2.10.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	found com.github.nscala-time#nscala-time_2.10;1.8.0 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving joda-time#joda-time;2.7 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: joda-time#joda-time;2.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0minfo[0m] [0mResolving joda-time#joda-time;2.7 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: joda-time#joda-time;2.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\shaka2512\.ivy2\local\joda-time\joda-time\2.7\ivys\ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for joda-time#joda-time;2.7[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for joda-time#joda-time;2.7[0m
+[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom (2.7)[0m
+[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.7!joda-time.pom(pom.original) (795ms)[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\shaka2512\.ivy2\local\joda-time\joda-time\2.7\jars\joda-time.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.jar[0m
+[0m[[0mdebug[0m] [0m	found joda-time#joda-time;2.7 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.joda#joda-convert;1.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.joda#joda-convert;1.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0minfo[0m] [0mResolving org.joda#joda-convert;1.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.joda#joda-convert;1.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\shaka2512\.ivy2\local\org.joda\joda-convert\1.2\ivys\ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.joda#joda-convert;1.2[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.joda#joda-convert;1.2[0m
+[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom (1.2)[0m
+[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.joda#joda-convert;1.2!joda-convert.pom(pom.original) (483ms)[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\shaka2512\.ivy2\local\org.joda\joda-convert\1.2\jars\joda-convert.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	found org.joda#joda-convert;1.2 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [compile][0m
@@ -21,6 +94,22 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [test][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [runtime][0m
@@ -29,6 +118,22 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->master][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
@@ -40,6 +145,22 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
@@ -50,6 +171,22 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [test-internal][0m
@@ -60,6 +197,22 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.scala-lang#scala-library;2.10.4 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->joda-time#joda-time;2.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.github.nscala-time#nscala-time_2.10;1.8.0->org.joda#joda-convert;1.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#programacion2_2.10;0.1-SNAPSHOT->com.github.nscala-time#nscala-time_2.10;1.8.0 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#programacion2_2.10;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
@@ -85,8 +238,6 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->runtime(*)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->optional(default)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.10.4 ...[0m
@@ -127,11 +278,29 @@
 [0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.10/1.8.0/nscala-time_2.10-1.8.0.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.nscala-time#nscala-time_2.10;1.8.0!nscala-time_2.10.jar (1826ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] joda-time#joda-time;2.7!joda-time.jar (1779ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/joda/joda-convert/1.2/joda-convert-1.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.joda#joda-convert;1.2!joda-convert.jar (592ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1644ms :: artifacts dl 48ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 13659ms :: artifacts dl 4306ms[0m
 [0m[[0mdebug[0m] [0m	report for default#programacion2_2.10;0.1-SNAPSHOT compile produced in C:\Users\shaka2512\Documents\GitHub\programacion2\target\resolution-cache\reports\default-programacion2_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#programacion2_2.10;0.1-SNAPSHOT runtime produced in C:\Users\shaka2512\Documents\GitHub\programacion2\target\resolution-cache\reports\default-programacion2_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#programacion2_2.10;0.1-SNAPSHOT test produced in C:\Users\shaka2512\Documents\GitHub\programacion2\target\resolution-cache\reports\default-programacion2_2.10-test.xml[0m
@@ -145,5 +314,5 @@
 [0m[[0mdebug[0m] [0m	report for default#programacion2_2.10;0.1-SNAPSHOT docs produced in C:\Users\shaka2512\Documents\GitHub\programacion2\target\resolution-cache\reports\default-programacion2_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#programacion2_2.10;0.1-SNAPSHOT pom produced in C:\Users\shaka2512\Documents\GitHub\programacion2\target\resolution-cache\reports\default-programacion2_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#programacion2_2.10;0.1-SNAPSHOT scala-tool produced in C:\Users\shaka2512\Documents\GitHub\programacion2\target\resolution-cache\reports\default-programacion2_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1644ms resolve - 48ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (13659ms resolve - 4306ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
