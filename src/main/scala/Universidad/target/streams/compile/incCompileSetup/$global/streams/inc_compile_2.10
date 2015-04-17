@@ -1,0 +1,873 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumno.class
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos$$anonfun$calificar$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos$$anonfun$conMatricula$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos$$anonfun$deLaCarrera$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos.class
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Asignatura.class
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Asignaturas$$anonfun$deLaCarrera$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Asignaturas.class
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Departamento.class
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Departamentos$$anonfun$deLaCarrera$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Departamentos.class
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial$$anonfun$getNotaCalificada$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial$$anonfun$getNotaNoCalificada$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial$$anonfun$setCalificacion$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial.class
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Nota.class
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Persona.class
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Profesor.class
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Profesores$$anonfun$deLaCarrera$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Profesores.class
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Proyecto.class
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Proyectos$$anonfun$conCodigo$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Proyectos.class
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Seccion.class
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Secciones$$anonfun$queCoincidanCon$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Secciones.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$1.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$10.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$11.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$12.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$2.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$3.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$4.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$5.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$6.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$7.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$8.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$9.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$.class
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad.class
+binary dependencies:
+42 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> /Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> /Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+39 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Historial.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Nota.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Nota.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Nota.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Nota.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> /Users/fenix/Documents/src/main/scala/Universidad/Persona.scala
+inheritance external dependencies:
+0 items
+class names:
+40 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Alumnos
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Alumnos$$anonfun$calificar$1
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Alumnos$$anonfun$conMatricula$1
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Alumnos$$anonfun$deLaCarrera$1
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> Asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Asignaturas
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Asignaturas$$anonfun$deLaCarrera$1
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> Departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Departamentos
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Departamentos$$anonfun$deLaCarrera$1
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Historial
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Historial$$anonfun$getNotaCalificada$1
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Historial$$anonfun$getNotaNoCalificada$1
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Historial$$anonfun$setCalificacion$1
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> Nota
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> Persona
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Profesores$$anonfun$deLaCarrera$1
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Proyecto
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> Proyectos
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> Proyectos$$anonfun$conCodigo$1
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> Seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Secciones
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Secciones$$anonfun$queCoincidanCon$1
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$1
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$10
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$11
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$12
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$2
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$3
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$4
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$5
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$6
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$7
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$8
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad$$anonfun$main$9
+used names:
+520 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Char
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> DateTime
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Float
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Historial
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Imports
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Nota
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Persona
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> calif
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> carr
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> com
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> dire
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> fecha
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> getHistorial
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> getMaterias
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> getNotaCalificada
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> getNotaNoCalificada
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> github
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> historial
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> matr
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> matri
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> matricula
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> nom
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> nota
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> nscala_time
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> numeroSeguro
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> setCalificacion
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> sex
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> time
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> -
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> <
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Alumnos
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Float
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Nota
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> alumnos
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> calif
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> calificar
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> conMatricula
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> deLaCarrera
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> equals
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> getAll
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> indexaux
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> matricula
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> nota
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> tmp
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> tope
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> Asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> Departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> carr
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> carre
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> codi
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> codigo
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> dep
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> depa
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> descri
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> descripcion
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> nomb
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> nombre
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> -
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> <
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Asignaturas
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> asignaturas
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> deLaCarrera
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> indexaux
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> tmp
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> tope
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> Departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> Int
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> carr
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> carre
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> carrer
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> nomb
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> nombre
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> tel
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> telefono
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> -
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> <
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Departamentos
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> carrer
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> deLaCarrera
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> departamentos
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> indexaux
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> tmp
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> tope
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Float
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Historial
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Nota
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> calif
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> calificar
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> equals
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> getNotaCalificada
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> getNotaNoCalificada
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> nota
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> notas
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> refArrayOps
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> setCalificacion
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> tieneCalificacion
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> tmp
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> tope
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> x
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> Boolean
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> Float
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> Nota
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> Seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> cali
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> calificacion
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> calificacion_=
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> sec
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> tieneCalificacion
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> toDouble
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> Char
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> DateTime
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> Imports
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> Persona
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> carr
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> carrer
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> com
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> dire
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> direccion
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> fecha
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> fechaNacimiento
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> github
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> nom
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> nomb
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> nombre
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> nscala_time
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> numeroSeguro
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> numeroSeguroSocial
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> sex
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> sexo
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> time
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Char
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> DateTime
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Float
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Imports
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Int
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Persona
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> carr
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> catego
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> categoria
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> com
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> depa
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> departamento_=
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> despach
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> despacho
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> dire
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> exten
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> extension
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> fecha
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> github
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> nom
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> nscala_time
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> numeroSeguro
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> salari
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> salario
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> sex
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> time
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> -
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> <
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> deLaCarrera
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> getAll
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> indexaux
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> tmp
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> tope
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Alumnos
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> DateTime
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Float
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Imports
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> Proyecto
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> agregar
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> beca
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> becarios
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> carr
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> codi
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> codigo
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> com
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> fechaIni
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> fechaInicio
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> getAll
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> github
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> institucion
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> instituto
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> investiga
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> investigador
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> nomb
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> nombre
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> nscala_time
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> profe
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> subven
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> subvencion
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> time
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> Proyecto
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> Proyectos
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> codigo
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> conCodigo
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> proyec
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> proyecto
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> Asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> Int
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> Seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> ani
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> anio
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> asig
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> cuat
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> cuatri
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> cuatrimestre
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> grup
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> grupo
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> profe
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> year
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> &&
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> -
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> <
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> ==
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Int
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Secciones
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> anio
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> cuatrimestre
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> i
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> index
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> index_=
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> indexaux
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> intWrapper
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> queCoincidanCon
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> secciones
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> tmp
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> to
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> tope
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> update
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> !=
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> +
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> -
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> <init>
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Alumnos
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> AnyRef
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Array
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Asignaturas
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Breaks
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> DateTime
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Departamentos
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Imports
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Int
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Predef
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Proyecto
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Proyectos
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Secciones
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> String
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Unit
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> Universidad
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> a
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> agregar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> agregarBecario
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> agregarProfesor
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> alum
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> alumno
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> alumnos
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> anio
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> apply
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> asig
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> asignatura
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> asignaturas
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> auxindex
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> auxindex_1
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> auxindex_2
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> becarios
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> calif
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> calificar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> carrera
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> categoria
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> codigo
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> com
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> conCodigo
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> conMatricula
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> control
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> cuatrimestre
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> d
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> deLaCarrera
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> dep
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> departamento
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> departamentos
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> descripcion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> despacho
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> direccion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> doWhile$1
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> extencion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> fechaInicio
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> fechaNacimiento
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> foreach
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> getHistorial
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> getMaterias
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> github
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> grupo
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> histo
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> institucion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> investigador
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> m
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> mat
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> matr
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> matricula
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> menu
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> nombre
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> nscala_time
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> numeroSeguroSocial
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> println
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> prof
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> profesor
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> profesores
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> proyecto
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> proyectos
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> queCoincidanCon
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> readChar
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> readFloat
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> readInt
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> readLine
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> refArrayOps
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> result
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> result_1
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> result_2
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> salario
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> scala
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> secc
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> seccion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> secciones
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> sexo
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> subvencion
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> telefono
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> time
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> toString
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> util
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> x
+product stamps:
+40 items
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumno.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos$$anonfun$calificar$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos$$anonfun$conMatricula$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos$$anonfun$deLaCarrera$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Alumnos.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Asignatura.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Asignaturas$$anonfun$deLaCarrera$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Asignaturas.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Departamento.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Departamentos$$anonfun$deLaCarrera$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Departamentos.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial$$anonfun$getNotaCalificada$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial$$anonfun$getNotaNoCalificada$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial$$anonfun$setCalificacion$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Historial.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Nota.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Persona.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Profesor.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Profesores$$anonfun$deLaCarrera$1.class -> lastModified(1429298270000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Profesores.class -> lastModified(1429298270000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Proyecto.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Proyectos$$anonfun$conCodigo$1.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Proyectos.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Seccion.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Secciones$$anonfun$queCoincidanCon$1.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Secciones.class -> lastModified(1429276353000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$1.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$10.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$11.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$12.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$2.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$3.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$4.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$5.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$6.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$7.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$8.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$$anonfun$main$9.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad$.class -> lastModified(1429276354000)
+/Users/fenix/Documents/src/main/scala/Universidad/target/scala-2.10/classes/Universidad.class -> lastModified(1429276354000)
+source stamps:
+16 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> hash(16b0b19b21ad00cef6920e95a20d950d2be1cea3)
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> hash(dfa67e590a97e35ccbe785daef6277951385bed1)
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> hash(67ef567a218fed4e190f41e6b88b19e527e572ff)
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> hash(59b4950a18b257f2ae02a25168927ddbb189e4cd)
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> hash(948748756760a77e9b5685a20d0c7aea61f2db2f)
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> hash(dfba245f33d57afcba7a58846b0c8043c587ef27)
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> hash(dec204a474304aee7d2b246856eabac432318e48)
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> hash(43c31725f7d4d4a2cb3bc89da54bc5eb8054126e)
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> hash(6a14ba7725510b1d907f643ae05ff932cf3a9dba)
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> hash(d073a3e0bd038e51bd1c9531e80e629b108c70b0)
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> hash(9ccf5c7571dddfce408146d49109421340141af2)
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> hash(110c7ae9c5606cb6a5a1866f65e080bb096aac57)
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> hash(0f5f9ea37d8c37503bedd6f7e6fb41d2e8297960)
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> hash(1d978c4a4e1fe7418d3096d147a0183ebdbe534f)
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> hash(04fc5f6933ce5c0e74e8d0fab8978f5076b4d073)
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> hash(f65a118f16689a216fe77ecd77f084fac851772b)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar -> lastModified(1423100601000)
+/Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar -> lastModified(1421023878000)
+/Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/fenix/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar -> com.github.nscala_time.time.TypeImports
+/Users/fenix/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar -> org.joda.time.DateTime
+/Users/fenix/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.runtime.RichInt
+internal apis:
+16 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB00AB3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBJ7HgB0ABJudW1lcm9TZWd1cm9Tb2NpYWxzcQB+AAy907ypdAAGbm90aWZ5c3EAfgAMmw3NlHQACWRpcmVjY2lvbnNxAH4ADP+n8wV0AAR3YWl0c3EAfgAMpsetzXQADSRhc0luc3RhbmNlT2ZzcQB+AAzdHfgxdAAJaGlzdG9yaWFsc3EAfgAMzQrhhHQABmVxdWFsc3NxAH4ADFpq9gF0AAxhc0luc3RhbmNlT2ZzcQB+AAzIVnCDdAAMc3luY2hyb25pemVkc3EAfgAMJmAG+HQABG5vbWJzcQB+AAyEdPCedAANJGlzSW5zdGFuY2VPZnNxAH4ADNlTi9Z0AAZjYXJyZXJzcQB+AAxR5xRQdAAJbWF0cmljdWxhc3EAfgAMRgXZQnQABm5vbWJyZXNxAH4ADMtTHn90AAlub3RpZnlBbGxzcQB+AAzW2ytXdAAMaXNJbnN0YW5jZU9mc3EAfgAMANoeuHQABjxpbml0PnNxAH4ADA0K9rF0AAtnZXRNYXRlcmlhc3NxAH4ADHkL9fV0AAI9PXNxAH4ADKHZZMh0AAVjbG9uZXNxAH4ADNGeJPR0AARzZXhvc3EAfgAMZd7h1nQADGdldEhpc3RvcmlhbHNxAH4ADMEZ6pR0AAZBbHVtbm9zcQB+AAwHN60BdAAIdG9TdHJpbmdzcQB+AAzT1fTudAACIT1zcQB+AAxEmL94dAAIZ2V0Q2xhc3NzcQB+AAwISklmdAAPZmVjaGFOYWNpbWllbnRvc3EAfgAMq+FNM3QAAm5lc3EAfgAMgJVQ53QACWNhbGlmaWNhcnNxAH4ADHyEur10AAVtYXRyaXNxAH4ADCuamoJ0AAJlcXNxAH4ADG8oSrB0AAIjI3NxAH4ADO/bqkB0AAhmaW5hbGl6ZXNxAH4ADPqyUX50AAhoYXNoQ29kZXNxAH4ADHtToAF0AAdjYXJyZXJhc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA7dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB1eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB0AHBzcQB+AHlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB9c3EAfgB0AHBzcQB+AHl1cQB+AFgAAAAAc3EAfgB0AHBzcQB+AHl1cQB+AFgAAAAAc3EAfgB0AHBzcQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHx0AAdQZXJzb25hc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB8c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAABc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwc3EAfgCNdAAGT2JqZWN0c3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cQB+AJp0AARqYXZhc3EAfgChdAAEbGFuZ3EAfgCbc3EAfgCNdAADQW55c3EAfgCRc3EAfgCUdXEAfgCXAAAAAnNxAH4AoXQABXNjYWxhcQB+AJt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMeCP5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2Zlbml4L0RvY3VtZW50cy9zcmMvbWFpbi9zY2FsYS9Vbml2ZXJzaWRhZC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFrCxmyGtAM72kg6Vog2VDSvhzqM=
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAi5dRiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLlJ0Bh0AAZub3RpZnlzcQB+AAyOYUYfdAAHYWdyZWdhcnNxAH4ADIz+41R0AAR3YWl0c3EAfgAMl+i0a3QADSRhc0luc3RhbmNlT2ZzcQB+AAyNx2v1dAAGZ2V0QWxsc3EAfgAMN96txnQABmVxdWFsc3NxAH4ADOOFfVp0AAxhc0luc3RhbmNlT2ZzcQB+AAwP8Uh0dAAMc3luY2hyb25pemVkc3EAfgAMVgWiX3QADSRpc0luc3RhbmNlT2ZzcQB+AAxXdMHodAAJbm90aWZ5QWxsc3EAfgAMJoda/3QADGlzSW5zdGFuY2VPZnNxAH4ADI4ykgF0AAxjb25NYXRyaWN1bGFzcQB+AAw7AHYMdAAGPGluaXQ+c3EAfgAMhgYoa3QABHRvcGVzcQB+AAzRlFhkdAACPT1zcQB+AAyU+Wd+dAAFY2xvbmVzcQB+AAwiXBtHdAALZGVMYUNhcnJlcmFzcQB+AAyezsTTdAAIdG9TdHJpbmdzcQB+AAzQ80LodAAHYWx1bW5vc3NxAH4ADG87g2d0AAIhPXNxAH4ADKlrTa90AAdBbHVtbm9zc3EAfgAMSoaA43QACGdldENsYXNzc3EAfgAM7Pt1d3QAAm5lc3EAfgAMRNhoAHQACWNhbGlmaWNhcnNxAH4ADLl0KUF0AAJlcXNxAH4ADFYGumx0AAIjI3NxAH4ADLupRvN0AAhmaW5hbGl6ZXNxAH4ADEgEFdR0AAVpbmRleHNxAH4ADMKsBWd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AN3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AaXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaABwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4AcXNxAH4AaABwc3EAfgBtdXEAfgBMAAAAAHNxAH4AaABwc3EAfgBtdXEAfgBMAAAAAHNxAH4AaABwc3EAfgBtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCNdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOc3EAfgCBdAADQW55c3EAfgCFc3EAfgCIdXEAfgCLAAAAAnNxAH4AjXQABXNjYWxhcQB+AJR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMeCP5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2Zlbml4L0RvY3VtZW50cy9zcmMvbWFpbi9zY2FsYS9Vbml2ZXJzaWRhZC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU36Z+WQqX41zL54Xa72J3lROFvtE=
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBW+HhZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cL+vopx0AAZub3RpZnlzcQB+AAw+a+6JdAAGY29kaWdvc3EAfgAMYKQKC3QABHdhaXRzcQB+AAyIVZG+dAANJGFzSW5zdGFuY2VPZnNxAH4ADFea5cJ0AAZlcXVhbHNzcQB+AAxTDu38dAAMYXNJbnN0YW5jZU9mc3EAfgAMXPlg4XQADHN5bmNocm9uaXplZHNxAH4ADHLM3Np0AA0kaXNJbnN0YW5jZU9mc3EAfgAMn7Z+K3QACkFzaWduYXR1cmFzcQB+AAx2BHbvdAAFY2FycmVzcQB+AAxewX4HdAAGbm9tYnJlc3EAfgAMQxbCUXQACW5vdGlmeUFsbHNxAH4ADG1/bbB0AAxpc0luc3RhbmNlT2ZzcQB+AAygv1SidAAGPGluaXQ+c3EAfgAMznN+NnQAAj09c3EAfgAMqwFbQHQABWNsb25lc3EAfgAM6+xk23QACHRvU3RyaW5nc3EAfgAMTAQtaXQAC2Rlc2NyaXBjaW9uc3EAfgAMrqEx43QAAiE9c3EAfgAMDUYkYXQACGdldENsYXNzc3EAfgAMGWjxb3QABGRlcGFzcQB+AAzB4y/QdAACbmVzcQB+AAz4Qv2QdAACZXFzcQB+AAwLuoPzdAACIyNzcQB+AAyVac0cdAAIZmluYWxpemVzcQB+AAy4ywdhdAAIaGFzaENvZGVzcQB+AAxV7qmLdAAHY2FycmVyYXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AH3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZABwc3EAfgBpc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbXNxAH4AZABwc3EAfgBpdXEAfgBIAAAAAHNxAH4AZABwc3EAfgBpdXEAfgBIAAAAAHNxAH4AZABwc3EAfgBpdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBsdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCJdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCKc3EAfgB9dAADQW55c3EAfgCBc3EAfgCEdXEAfgCHAAAAAnNxAH4AiXQABXNjYWxhcQB+AJB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMeCP5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2Zlbml4L0RvY3VtZW50cy9zcmMvbWFpbi9zY2FsYS9Vbml2ZXJzaWRhZC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZ+9WeiGP7U4ZD0HmuIsZ5Sflcv8=
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBF1725AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCuUGdp0AAZub3RpZnlzcQB+AAyhu/yYdAAHYWdyZWdhcnNxAH4ADMRim3F0AAR3YWl0c3EAfgAM+xzu9nQADSRhc0luc3RhbmNlT2ZzcQB+AAycrCr0dAAGZXF1YWxzc3EAfgAMkGFWDXQADGFzSW5zdGFuY2VPZnNxAH4ADNs5+JR0AAxzeW5jaHJvbml6ZWRzcQB+AAyfOPIWdAANJGlzSW5zdGFuY2VPZnNxAH4ADMNzYlx0AAlub3RpZnlBbGxzcQB+AAyhRPJadAAMaXNJbnN0YW5jZU9mc3EAfgAM3Ym2lnQABjxpbml0PnNxAH4ADKStl7x0AAR0b3Blc3EAfgAMVZuWSnQAC0FzaWduYXR1cmFzc3EAfgAMAMhyX3QAAj09c3EAfgAM3OhGh3QABWNsb25lc3EAfgAMAG1xkXQAC2RlTGFDYXJyZXJhc3EAfgAMs5V6H3QACHRvU3RyaW5nc3EAfgAMqSyN63QAAiE9c3EAfgAMxrYoFnQACGdldENsYXNzc3EAfgAM79nJDHQAC2FzaWduYXR1cmFzc3EAfgAMIk6rx3QAAm5lc3EAfgAMc0Z+FnQAAmVxc3EAfgAMwvykInQAAiMjc3EAfgAMY7TEEHQACGZpbmFsaXplc3EAfgAMv+l9dXQABWluZGV4c3EAfgAM3AmrEXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBjeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBiAHBzcQB+AGdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBrc3EAfgBiAHBzcQB+AGd1cQB+AEYAAAAAc3EAfgBiAHBzcQB+AGd1cQB+AEYAAAAAc3EAfgBiAHBzcQB+AGd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AId0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AANBbnlzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAFc2NhbGFxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMx4I/mHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvZmVuaXgvRG9jdW1lbnRzL3NyYy9tYWluL3NjYWxhL1VuaXZlcnNpZGFkL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRZtJUKGLJX8q4ColFokn3bsYnkzQ==
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDK3on5AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDjjMPx0AAh0ZWxlZm9ub3NxAH4ADIrYZAN0AAZub3RpZnlzcQB+AAwKod/BdAAEd2FpdHNxAH4ADK1OnOp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMXY3KUHQABmVxdWFsc3NxAH4ADIyaQwt0AAxhc0luc3RhbmNlT2ZzcQB+AAwMwmBndAAMc3luY2hyb25pemVkc3EAfgAMQOBa2XQADSRpc0luc3RhbmNlT2ZzcQB+AAyS+63VdAAFY2FycmVzcQB+AAz8aA1bdAAGY2FycmVyc3EAfgAMt/zGwHQABm5vbWJyZXNxAH4ADMmJi+R0AAlub3RpZnlBbGxzcQB+AAwVzF89dAAMaXNJbnN0YW5jZU9mc3EAfgAM9eSceHQABjxpbml0PnNxAH4ADJFK8k10AAI9PXNxAH4ADIUbZBF0AAVjbG9uZXNxAH4ADBHgMzV0AAh0b1N0cmluZ3NxAH4ADNYmqTB0AAIhPXNxAH4ADHAJKO50AAhnZXRDbGFzc3NxAH4ADLA8KVx0AAJuZXNxAH4ADEak9rZ0AAxEZXBhcnRhbWVudG9zcQB+AAyw/42SdAACZXFzcQB+AAyH3d0RdAACIyNzcQB+AAxfTNP8dAAIZmluYWxpemVzcQB+AAxzBpnZdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGAAcHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGlzcQB+AGAAcHNxAH4AZXVxAH4ARAAAAABzcQB+AGAAcHNxAH4AZXVxAH4ARAAAAABzcQB+AGAAcHNxAH4AZXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnNxAH4AeXQAA0FueXNxAH4AfXNxAH4AgHVxAH4AgwAAAAJzcQB+AIV0AAVzY2FsYXEAfgCMdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUzHgj+YdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJSHSHVnYKd+m1aFog0Meuph8tsv
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCJFWQ4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHtDKoR0AAZub3RpZnlzcQB+AAxjo4MadAAHYWdyZWdhcnNxAH4ADMLQhgN0AAR3YWl0c3EAfgAMvD0cznQADSRhc0luc3RhbmNlT2ZzcQB+AAwvh44pdAAGZXF1YWxzc3EAfgAMy6j1PXQADURlcGFydGFtZW50b3NzcQB+AAwWYhI4dAAMYXNJbnN0YW5jZU9mc3EAfgAM8gz8LHQADHN5bmNocm9uaXplZHNxAH4ADMgj7Ad0AA0kaXNJbnN0YW5jZU9mc3EAfgAMhEN8lnQACW5vdGlmeUFsbHNxAH4ADIAcd+50AAxpc0luc3RhbmNlT2ZzcQB+AAwN5D88dAAGPGluaXQ+c3EAfgAM2zvwGnQABHRvcGVzcQB+AAydkztKdAACPT1zcQB+AAw3Z151dAAFY2xvbmVzcQB+AAwu9GJVdAALZGVMYUNhcnJlcmFzcQB+AAy+ITNfdAAIdG9TdHJpbmdzcQB+AAyGjm+mdAACIT1zcQB+AAxb31nOdAAIZ2V0Q2xhc3NzcQB+AAwIIYQkdAANZGVwYXJ0YW1lbnRvc3NxAH4ADLNXui10AAJuZXNxAH4ADFT7ap90AAJlcXNxAH4ADKSP8+B0AAIjI3NxAH4ADAyC7R50AAhmaW5hbGl6ZXNxAH4ADMeCnvB0AAVpbmRleHNxAH4ADKH26kx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AGXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AY3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYgBwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4Aa3NxAH4AYgBwc3EAfgBndXEAfgBGAAAAAHNxAH4AYgBwc3EAfgBndXEAfgBGAAAAAHNxAH4AYgBwc3EAfgBndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBqdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCHdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCIc3EAfgB7dAADQW55c3EAfgB/c3EAfgCCdXEAfgCFAAAAAnNxAH4Ah3QABXNjYWxhcQB+AI51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMeCP5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2Zlbml4L0RvY3VtZW50cy9zcmMvbWFpbi9zY2FsYS9Vbml2ZXJzaWRhZC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU37okXzPVevy6eliEawyAQ8WH7yc=
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAzsr4yAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEunJO90AAZub3RpZnlzcQB+AAxI8aBVdAAEd2FpdHNxAH4ADBJmbOt0AAlIaXN0b3JpYWxzcQB+AAzKkqvcdAANJGFzSW5zdGFuY2VPZnNxAH4ADDxCZTh0AAZlcXVhbHNzcQB+AAx6nwYXdAAMYXNJbnN0YW5jZU9mc3EAfgAMWXmq9nQADHN5bmNocm9uaXplZHNxAH4ADANn7iN0AA9zZXRDYWxpZmljYWNpb25zcQB+AAwP1WkjdAANJGlzSW5zdGFuY2VPZnNxAH4ADAwwom50ABFnZXROb3RhQ2FsaWZpY2FkYXNxAH4ADBDDt9F0AAlub3RpZnlBbGxzcQB+AAyQv/jRdAAMaXNJbnN0YW5jZU9mc3EAfgAMezmTjHQABjxpbml0PnNxAH4ADNbfqwl0AAR0b3Blc3EAfgAMgmqTxnQAAj09c3EAfgAMA7sCn3QABWNsb25lc3EAfgAMfBVQUXQAC2FncmVnYXJOb3Rhc3EAfgAMkGtD33QACHRvU3RyaW5nc3EAfgAMVZJHlHQAAiE9c3EAfgAMo21/lXQACGdldENsYXNzc3EAfgAMFDgbd3QAAm5lc3EAfgAM2+F61HQAE2dldE5vdGFOb0NhbGlmaWNhZGFzcQB+AAw2BeUrdAACZXFzcQB+AAzG1wl8dAACIyNzcQB+AAxGMAYldAAIZmluYWxpemVzcQB+AAzdZuyldAAFaW5kZXhzcQB+AAzgJ0wsdAAIaGFzaENvZGVzcQB+AAwAH+Q5dAAFbm90YXNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGd4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGYAcHNxAH4Aa3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG9zcQB+AGYAcHNxAH4Aa3VxAH4ASgAAAABzcQB+AGYAcHNxAH4Aa3VxAH4ASgAAAABzcQB+AGYAcHNxAH4Aa3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ai3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjHNxAH4Af3QAA0FueXNxAH4Ag3NxAH4AhnVxAH4AiQAAAAJzcQB+AIt0AAVzY2FsYXEAfgCSdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUzHgj+YdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN7CBKR0MErufSskaFbqusQyMY5I
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBhgDkHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCQTfHx0AAZub3RpZnlzcQB+AAx2Oc9YdAAEd2FpdHNxAH4ADPpO4c50AA0kYXNJbnN0YW5jZU9mc3EAfgAM2qfe73QAEXRpZW5lQ2FsaWZpY2FjaW9uc3EAfgAMZXT5wXQABmVxdWFsc3NxAH4ADKd9T8R0AAxhc0luc3RhbmNlT2ZzcQB+AAxCY19EdAAMY2FsaWZpY2FjaW9uc3EAfgAMBTjVGHQADHN5bmNocm9uaXplZHNxAH4ADPiNTbJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMAScpv3QACW5vdGlmeUFsbHNxAH4ADHXrcLF0AAxpc0luc3RhbmNlT2ZzcQB+AAxY57+ndAAGPGluaXQ+c3EAfgAMtnexJnQAAj09c3EAfgAMtRWWGXQABWNsb25lc3EAfgAMktKmdXQACHRvU3RyaW5nc3EAfgAMBQJEjnQAAiE9c3EAfgAMFAfzcHQACGdldENsYXNzc3EAfgAMQL5jqHQABE5vdGFzcQB+AAwumZAhdAACbmVzcQB+AAybt5DSdAAHc2VjY2lvbnNxAH4ADGx4GaJ0AAljYWxpZmljYXJzcQB+AAyp8xQOdAACZXFzcQB+AAw+LJzVdAACIyNzcQB+AAx1QQVWdAAIZmluYWxpemVzcQB+AAzMADDydAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGAAcHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGlzcQB+AGAAcHNxAH4AZXVxAH4ARAAAAABzcQB+AGAAcHNxAH4AZXVxAH4ARAAAAABzcQB+AGAAcHNxAH4AZXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnNxAH4AeXQAA0FueXNxAH4AfXNxAH4AgHVxAH4AgwAAAAJzcQB+AIV0AAVzY2FsYXEAfgCMdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUzHgj+YdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEPDFyX31NSiyzvInaVLxeuAVBJu
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAeDELVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cB0h91t0ABJudW1lcm9TZWd1cm9Tb2NpYWxzcQB+AAwuVzFRdAAGbm90aWZ5c3EAfgAMExU5HXQACWRpcmVjY2lvbnNxAH4ADDt8/qR0AAR3YWl0c3EAfgAMIhCXbHQADSRhc0luc3RhbmNlT2ZzcQB+AAxk1TbrdAAGZXF1YWxzc3EAfgAM3YSxa3QADGFzSW5zdGFuY2VPZnNxAH4ADGLMHpF0AAxzeW5jaHJvbml6ZWRzcQB+AAzfl3D8dAAEbm9tYnNxAH4ADNvOY3l0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHeeYCnQABmNhcnJlcnNxAH4ADHNyy2J0AAZub21icmVzcQB+AAzK6wKLdAAJbm90aWZ5QWxsc3EAfgAMQUxfInQADGlzSW5zdGFuY2VPZnNxAH4ADHYi+xR0AAY8aW5pdD5zcQB+AAygV9jRdAACPT1zcQB+AAxaS1ZFdAAFY2xvbmVzcQB+AAxGXzgAdAAEc2V4b3NxAH4ADLnyq7N0AAdQZXJzb25hc3EAfgAMnjR543QACHRvU3RyaW5nc3EAfgAMSrwxZXQAAiE9c3EAfgAMtGY89HQACGdldENsYXNzc3EAfgAM9IW8uHQAD2ZlY2hhTmFjaW1pZW50b3NxAH4ADBhHVs10AAJuZXNxAH4ADAt70IB0AAJlcXNxAH4ADCX7ba10AAIjI3NxAH4ADFHdf5h0AAhmaW5hbGl6ZXNxAH4ADDpf/UN0AAhoYXNoQ29kZXNxAH4ADISbX/h0AAdjYXJyZXJhc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBpeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBoAHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBxc3EAfgBoAHBzcQB+AG11cQB+AEwAAAAAc3EAfgBoAHBzcQB+AG11cQB+AEwAAAAAc3EAfgBoAHBzcQB+AG11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AI10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AIF0AANBbnlzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNdAAFc2NhbGFxAH4AlHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMx4I/mHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvZmVuaXgvRG9jdW1lbnRzL3NyYy9tYWluL3NjYWxhL1VuaXZlcnNpZGFkL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRqFLp3JVELHZB/ZDrgX/kyzzqdug==
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCZkuugAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMkBLpJ0ABJudW1lcm9TZWd1cm9Tb2NpYWxzcQB+AAxuEPgfdAAGbm90aWZ5c3EAfgAMbBuCRXQAE2FzaWduYXJEZXBhcnRhbWVudG9zcQB+AAxpRG4ldAAJZGlyZWNjaW9uc3EAfgAMTLyOpHQABHdhaXRzcQB+AAyucSPYdAANJGFzSW5zdGFuY2VPZnNxAH4ADG772P10AAhkZXNwYWNob3NxAH4ADLy7kpx0AAZlcXVhbHNzcQB+AAwXfD3HdAAMYXNJbnN0YW5jZU9mc3EAfgAMojaqAnQACWNhdGVnb3JpYXNxAH4ADFis1150AAxzeW5jaHJvbml6ZWRzcQB+AAzvzOj8dAAEbm9tYnNxAH4ADNGjGv50AA0kaXNJbnN0YW5jZU9mc3EAfgAMZ4fQhnQABmNhcnJlcnNxAH4ADCAe9f50AAZub21icmVzcQB+AAzRdUwFdAAJbm90aWZ5QWxsc3EAfgAMJ44L2nQADGlzSW5zdGFuY2VPZnNxAH4ADB6WRa90AAY8aW5pdD5zcQB+AAylkkBPdAACPT1zcQB+AAwlIFH5dAAFY2xvbmVzcQB+AAzYlxGhdAAEc2V4b3NxAH4ADFZ45dB0AAh0b1N0cmluZ3NxAH4ADIKdVBV0AAIhPXNxAH4ADGCu26l0AAdzYWxhcmlvc3EAfgAMWgCKh3QACGdldENsYXNzc3EAfgAMgXE6znQAD2ZlY2hhTmFjaW1pZW50b3NxAH4ADF8hev50AAhQcm9mZXNvcnNxAH4ADA0jcUF0AAxkZXBhcnRhbWVudG9zcQB+AAx35xo0dAACbmVzcQB+AAwPWUqwdAACZXFzcQB+AAx/HJtOdAACIyNzcQB+AAzw0CAbdAAIZmluYWxpemVzcQB+AAy/KLSydAAIaGFzaENvZGVzcQB+AAxRvtK/dAAHY2FycmVyYXNxAH4ADL7t6KZ0AAlleHRlbnNpb25zcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AEN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHV4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHQAcHNxAH4AeXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBdTAAJaW5oZXJpdGVkcQB+AF1MAAdwYXJlbnRzcQB+AF14cQB+AH1zcQB+AHQAcHNxAH4AeXVxAH4AWAAAAABzcQB+AHQAcHNxAH4AeXVxAH4AWAAAAABzcQB+AHQAcHNxAH4AeXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfHQAB1BlcnNvbmFzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHBzcQB+AI10AAZPYmplY3RzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhxAH4AmnQABGphdmFzcQB+AKF0AARsYW5ncQB+AJtzcQB+AI10AANBbnlzcQB+AJFzcQB+AJR1cQB+AJcAAAACc3EAfgChdAAFc2NhbGFxAH4Am3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMx4I/mHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvZmVuaXgvRG9jdW1lbnRzL3NyYy9tYWluL3NjYWxhL1VuaXZlcnNpZGFkL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTQc6PgvQOOUb0clTHoDmKbEIxwsA==
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBf5VZ8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJwykB50AAZub3RpZnlzcQB+AAx61xf+dAAHYWdyZWdhcnNxAH4ADERaQox0AAR3YWl0c3EAfgAMheDSbnQADSRhc0luc3RhbmNlT2ZzcQB+AAyRDbQodAAGZ2V0QWxsc3EAfgAM1SAFJXQABmVxdWFsc3NxAH4ADFOpgeZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxCYjM0dAAMc3luY2hyb25pemVkc3EAfgAMv4Nfl3QADSRpc0luc3RhbmNlT2ZzcQB+AAwfhRGodAAJbm90aWZ5QWxsc3EAfgAMKcijC3QADGlzSW5zdGFuY2VPZnNxAH4ADBaU3LN0AAY8aW5pdD5zcQB+AAz6wj4VdAAEdG9wZXNxAH4ADMYhG7F0AApwcm9mZXNvcmVzc3EAfgAMHuaYWnQAAj09c3EAfgAMDDc+nHQABWNsb25lc3EAfgAMLbXTmnQAC2RlTGFDYXJyZXJhc3EAfgAMEQmqaXQACHRvU3RyaW5nc3EAfgAMDzoMKHQAClByb2Zlc29yZXNzcQB+AAz2axrgdAACIT1zcQB+AAwbW7NxdAAIZ2V0Q2xhc3NzcQB+AAzytyR/dAACbmVzcQB+AAygkIl1dAACZXFzcQB+AAw0wFBOdAACIyNzcQB+AAyCkaywdAAIZmluYWxpemVzcQB+AAw8yCm1dAAFaW5kZXhzcQB+AAy4ookbdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AZAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBrc3EAfgBkAXVxAH4ASAAAAABwc3EAfgBkAXVxAH4ASAAAAABwc3EAfgBkAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AanQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ag3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhHNxAH4Ad3QAA0FueXNxAH4Ae3NxAH4AfnVxAH4AgQAAAAJzcQB+AIN0AAVzY2FsYXEAfgCKcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMjQvgp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2Zlbml4L0RvY3VtZW50cy9zcmMvbWFpbi9zY2FsYS9Vbml2ZXJzaWRhZC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUnM9cdXHd385AgUbUkQlCE0AUGvI=
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD46ZlUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJi8NwV0AAZub3RpZnlzcQB+AAzMIy43dAAGY29kaWdvc3EAfgAMYmccE3QABHdhaXRzcQB+AAwn5b4bdAANJGFzSW5zdGFuY2VPZnNxAH4ADDmMFld0AAZlcXVhbHNzcQB+AAwRZQzUdAAMYXNJbnN0YW5jZU9mc3EAfgAMFdCdy3QADHN5bmNocm9uaXplZHNxAH4ADO4aZZx0AARub21ic3EAfgAMxuzeZHQADSRpc0luc3RhbmNlT2ZzcQB+AAwx/X8/dAALaW5zdGl0dWNpb25zcQB+AAz9expudAAGbm9tYnJlc3EAfgAMsG6M53QACW5vdGlmeUFsbHNxAH4ADNw6xvN0AAxpc0luc3RhbmNlT2ZzcQB+AAyXEAX6dAAIUHJveWVjdG9zcQB+AAwnVICldAAFcHJvZmVzcQB+AAxMAMOgdAAEYmVjYXNxAH4ADMny7kt0AAY8aW5pdD5zcQB+AAzg9NjddAAEY2FycnNxAH4ADDhwuxN0AApwcm9mZXNvcmVzc3EAfgAMDmn/FnQAC2ZlY2hhSW5pY2lvc3EAfgAM94tr63QAAj09c3EAfgAMnrlW2nQABWNsb25lc3EAfgAMReTi8nQADGludmVzdGlnYWRvcnNxAH4ADH2lBqx0AA5hZ3JlZ2FyQmVjYXJpb3NxAH4ADLg0/YJ0AApzdWJ2ZW5jaW9uc3EAfgAMBOEZxnQACGJlY2FyaW9zc3EAfgAM009HxHQACHRvU3RyaW5nc3EAfgAM8rj3VHQABGNvZGlzcQB+AAymc1w7dAACIT1zcQB+AAw2lhJbdAAIZ2V0Q2xhc3NzcQB+AAzmPIMBdAAJaW5zdGl0dXRvc3EAfgAMzbLAgXQAAm5lc3EAfgAMAVMOg3QACGZlY2hhSW5pc3EAfgAMyed/3XQAAmVxc3EAfgAMWFuwQHQACWludmVzdGlnYXNxAH4ADP19Jb90AAIjI3NxAH4ADLHud7h0AAhmaW5hbGl6ZXNxAH4ADG2Lwj50AAZzdWJ2ZW5zcQB+AAw3XhqtdAAIaGFzaENvZGVzcQB+AAw2TjfldAAHY2FycmVyYXNxAH4ADP3Ag3R0AA9hZ3JlZ2FyUHJvZmVzb3JzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIAAcHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIlzcQB+AIAAcHNxAH4AhXVxAH4AZAAAAABzcQB+AIAAcHNxAH4AhXVxAH4AZAAAAABzcQB+AIAAcHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ApXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ApnNxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AKV0AAVzY2FsYXEAfgCsdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUzHgj+YdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBEMeunFYGy2paGGb2XggLsJaqxX
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCnOFHuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLu82z90AAZub3RpZnlzcQB+AAxHJuFIdAAHYWdyZWdhcnNxAH4ADEEV+Zh0AAR3YWl0c3EAfgAMxcfJSHQADSRhc0luc3RhbmNlT2ZzcQB+AAxKmbTWdAAGZXF1YWxzc3EAfgAMUPGB3nQADGFzSW5zdGFuY2VPZnNxAH4ADDYuVqN0AAlQcm95ZWN0b3NzcQB+AAwpK91/dAAJY29uQ29kaWdvc3EAfgAMJ2qWDHQADHN5bmNocm9uaXplZHNxAH4ADKn3SKh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJ28fRHQACHByb3llY3Rvc3EAfgAMXIMvJnQACW5vdGlmeUFsbHNxAH4ADMsQ4yF0AAxpc0luc3RhbmNlT2ZzcQB+AAxGMOu5dAAGPGluaXQ+c3EAfgAM5OWmu3QAAj09c3EAfgAMMNmoIXQABWNsb25lc3EAfgAMn5ykzHQACHRvU3RyaW5nc3EAfgAMaRN5IXQAAiE9c3EAfgAMJUew6HQACGdldENsYXNzc3EAfgAMd4m/MXQAAm5lc3EAfgAMBR7amXQAAmVxc3EAfgAMTdiBA3QAAiMjc3EAfgAMtqg4P3QACGZpbmFsaXplc3EAfgAMBIaIu3QABWluZGV4c3EAfgAMO7RQ/nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAbdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBheHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBgAHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBpc3EAfgBgAHBzcQB+AGV1cQB+AEQAAAAAc3EAfgBgAHBzcQB+AGV1cQB+AEQAAAAAc3EAfgBgAHBzcQB+AGV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIZzcQB+AHl0AANBbnlzcQB+AH1zcQB+AIB1cQB+AIMAAAACc3EAfgCFdAAFc2NhbGFxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMx4I/mHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvZmVuaXgvRG9jdW1lbnRzL3NyYy9tYWluL3NjYWxhL1VuaXZlcnNpZGFkL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQPX56jfYw3UDvt1vfm+0HS6Cl5YA==
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHChyxpUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM3kXdx0AAhwcm9mZXNvcnNxAH4ADAv/rcR0AAZub3RpZnlzcQB+AAxOuGqNdAAHU2VjY2lvbnNxAH4ADDy/KBZ0AAR3YWl0c3EAfgAMdEmv+XQADSRhc0luc3RhbmNlT2ZzcQB+AAxvc2fZdAAGZXF1YWxzc3EAfgAMA3iXc3QADGFzSW5zdGFuY2VPZnNxAH4ADHxxfHx0AANhbmlzcQB+AAwBKjJ/dAAMc3luY2hyb25pemVkc3EAfgAMB3r9KHQACmFzaWduYXR1cmFzcQB+AAybvtTndAANJGlzSW5zdGFuY2VPZnNxAH4ADI9oFzt0AAVncnVwb3NxAH4ADI7fcjF0AARhbmlvc3EAfgAMNlLVkXQACW5vdGlmeUFsbHNxAH4ADO9SEBp0AAZjdWF0cmlzcQB+AAwzIBKfdAAMaXNJbnN0YW5jZU9mc3EAfgAM96FNC3QABjxpbml0PnNxAH4ADC08J4d0AAI9PXNxAH4ADEe9k210AAVjbG9uZXNxAH4ADDY8ayB0AAh0b1N0cmluZ3NxAH4ADGOTgT90AAIhPXNxAH4ADO/piiF0AAhnZXRDbGFzc3NxAH4ADKMNpLV0AAJuZXNxAH4ADEb0Ew90AAxjdWF0cmltZXN0cmVzcQB+AAzFTwHUdAACZXFzcQB+AAzFGDgudAACIyNzcQB+AAx5gJqpdAAIZmluYWxpemVzcQB+AAwWzZa+dAAIaGFzaENvZGVzcQB+AAzHPj/0dAAHY2FycmVyYXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AE3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AaXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaABwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4AcXNxAH4AaABwc3EAfgBtdXEAfgBMAAAAAHNxAH4AaABwc3EAfgBtdXEAfgBMAAAAAHNxAH4AaABwc3EAfgBtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCNdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOc3EAfgCBdAADQW55c3EAfgCFc3EAfgCIdXEAfgCLAAAAAnNxAH4AjXQABXNjYWxhcQB+AJR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMeCP5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2Zlbml4L0RvY3VtZW50cy9zcmMvbWFpbi9zY2FsYS9Vbml2ZXJzaWRhZC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHZeMSk4f50GNMJbRR6AYPr2+U08=
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAwOgxEAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH3sw8l0AAZub3RpZnlzcQB+AAwVQ9O5dAAHYWdyZWdhcnNxAH4ADMDX2vZ0AAR3YWl0c3EAfgAMeB+cTnQADSRhc0luc3RhbmNlT2ZzcQB+AAxuw+UpdAAGZXF1YWxzc3EAfgAMDlsnKXQADGFzSW5zdGFuY2VPZnNxAH4ADHa1Lj50AAxzeW5jaHJvbml6ZWRzcQB+AAx+5UUAdAANJGlzSW5zdGFuY2VPZnNxAH4ADOjs0kB0AAlub3RpZnlBbGxzcQB+AAzeJkpbdAAJU2VjY2lvbmVzc3EAfgAMnlWZBnQADGlzSW5zdGFuY2VPZnNxAH4ADPgiEnF0AAY8aW5pdD5zcQB+AAyF7HjCdAAEdG9wZXNxAH4ADCG6vPd0AAI9PXNxAH4ADLGnR3x0AAVjbG9uZXNxAH4ADI4lWfd0AAh0b1N0cmluZ3NxAH4ADFs0KSF0AAIhPXNxAH4ADJMU7m50AAhnZXRDbGFzc3NxAH4ADPrXdHt0AAlzZWNjaW9uZXNzcQB+AAx1dCxPdAACbmVzcQB+AAzNwYRjdAACZXFzcQB+AAyuf6lidAACIyNzcQB+AAxYh9IRdAAIZmluYWxpemVzcQB+AAyWmVnfdAAFaW5kZXhzcQB+AAwTp952dAAIaGFzaENvZGVzcQB+AAzuoEnbdAAPcXVlQ29pbmNpZGFuQ29uc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBjeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBiAHBzcQB+AGdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBrc3EAfgBiAHBzcQB+AGd1cQB+AEYAAAAAc3EAfgBiAHBzcQB+AGd1cQB+AEYAAAAAc3EAfgBiAHBzcQB+AGd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AId0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AANBbnlzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAFc2NhbGFxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMx4I/mHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvZmVuaXgvRG9jdW1lbnRzL3NyYy9tYWluL3NjYWxhL1VuaXZlcnNpZGFkL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQE/F9pM85cDnTo0Pq4l49QdrTQcw==
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBlq1YxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOeolJ90AAZub3RpZnlzcQB+AAxdNDCWdAAEbWVudXNxAH4ADDgg/5R0AAR3YWl0c3EAfgAMPHYDUXQADSRhc0luc3RhbmNlT2ZzcQB+AAzuI+7qdAAGZXF1YWxzc3EAfgAMrMaW/nQADGFzSW5zdGFuY2VPZnNxAH4ADJLV1lV0AAxzeW5jaHJvbml6ZWRzcQB+AAyURbymdAANJGlzSW5zdGFuY2VPZnNxAH4ADJYUM0R0AARtYWluc3EAfgAMd8te23QACW5vdGlmeUFsbHNxAH4ADOKs/sB0AAxpc0luc3RhbmNlT2ZzcQB+AAyn51OTdAACPT1zcQB+AAxxhMWMdAAFY2xvbmVzcQB+AAzFJHYcdAALVW5pdmVyc2lkYWRzcQB+AAx6CjThdAAIdG9TdHJpbmdzcQB+AAy/JWpXdAACIT1zcQB+AAywsxXOdAAIZ2V0Q2xhc3NzcQB+AAy+AMZvdAACbmVzcQB+AAy+PCg8dAACZXFzcQB+AAw5e8IqdAACIyNzcQB+AAywpq/OdAAIZmluYWxpemVzcQB+AAzy9DEadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBaAHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBjc3EAfgBaAHBzcQB+AF91cQB+AD4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AERxAH4ATXVxAH4ATgAAAABzcQB+AFAAcQB+AB91cQB+AFIAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIB1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBteHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBVdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB0WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBic3EAfgBzdAAFQXJyYXlxAH4AeXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBzdAAGU3RyaW5nc3EAfgB3c3EAfgB6dXEAfgB9AAAAA3NxAH4Af3QABGphdmFzcQB+AH90AARsYW5ncQB+AIRzcQB+AFoAcHNxAH4AX3VxAH4APgAAAABzcQB+AFoAcHNxAH4AX3VxAH4AmAAAAAJzcQB+AHN0AAZPYmplY3RxAH4AnHNxAH4Ac3QAA0FueXEAfgB5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUzHgj+YdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPZaEY8WaJohb+d+zXfwhPrIUXcr
+external apis:
+0 items
+source infos:
+16 items
+/Users/fenix/Documents/src/main/scala/Universidad/Alumno.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Alumnos.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Asignatura.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Asignaturas.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Departamento.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Departamentos.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Historial.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Nota.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Persona.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Profesor.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Profesores.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Proyecto.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Proyectos.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Seccion.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Secciones.scala -> 
+AAAAAAAAAAA=
+/Users/fenix/Documents/src/main/scala/Universidad/Universidad.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMeCP5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTMjQvgp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9mZW5peC9Eb2N1bWVudHMvc3JjL21haW4vc2NhbGEvVW5pdmVyc2lkYWQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
