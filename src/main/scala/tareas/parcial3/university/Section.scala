@@ -5,5 +5,6 @@ class Section(val subject:Subject,
               val fourMonthPeriod:String,
               val year:Int){
     def career():String = {
+        return career
     }
 }

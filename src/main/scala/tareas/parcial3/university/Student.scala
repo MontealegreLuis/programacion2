@@ -1,14 +1,13 @@
 package parcial3.university
 import com.github.nscala_time.time.Imports._
-class Student (val name:String,
-               val socialSecurityNumber:Int, 
-               val address:String, 
-               val sex:String, 
-               valdateOfBirth: DateTime, 
-               )extends Person(name,socialSecurityNumber,address,sex,dateOfBirth){
-    val career:String, 
-    val ID:String
-    def ID(): String{
+class Student (var name: String,
+               var socialSecurityNumber: String, 
+               var address: String, 
+               var sex: Char, 
+               var dateOfBirth: DateTime)extends Person(name,socialSecurityNumber,address,sex,dateOfBirth){
+    val regNum: String
+    def registrationNumber(): String = {
+        return regNum
     }
 }
 
