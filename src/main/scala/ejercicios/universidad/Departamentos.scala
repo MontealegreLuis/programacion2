@@ -1,5 +1,7 @@
+package ejercicios.universidad
+import com.github.nscala_time.time.Imports._
 class Departamentos{
-  val departamentos : Array[Departamento](6)
+  val departamentos = new Array[Departamento](6)
   var cont = 0
   def agregar(departamento:Departamento){
     departamentos(cont)=departamento
@@ -16,7 +18,7 @@ class Departamentos{
   	}
   	return deptos
   }
-  def totalCon():Int{
+  def totalCon():Int={
   	con
   }
   def total():Int = {

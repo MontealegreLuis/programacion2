@@ -5,4 +5,19 @@ class Profesor(val nom:String,val segSocial:String,val dir:String,val sex:Char,v
   def asignarADepartamento(depto:Departamento){
     this.departamento = depto
   }
+  def nombre():String={
+  	this.nombre
+  }
+  def mostrarDatos(){
+  	println("Nombre: " + this.nom + " \n")
+  	println("Seguro Social: " + this.segSocial + " \n")
+  	println("Direccion: " + this.segSocial + " \n")
+  	println("Sexo: " + this.sex  + " \n")
+  	println("Fecha de Nacimiento:" + this.fechaNac  + " \n")
+  	println("Carrera: " + this.car + " \n")
+  	println("Categoria: " + this.categoria)
+  	println("Despacho: " + this.despacho + " \n")
+  	println("Extencion: " + this.extencion)
+  	println("Salario: " + this.salario + " \n")
+  }
 }

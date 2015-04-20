@@ -1,57 +1,201 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
-[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 16 sources: invalidated sources (16) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 16 Scala sources to /home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 2f378a22, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3288e624, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/mario/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes:/home/mario/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar:/home/mario/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar:/home/mario/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.2.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 6.067144026 s[0m
-[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
-[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, opcion, asInstanceOf, executionStart, synchronized, $isInstanceOf, _args, main, initCode, notifyAll, isInstanceOf, respuesta, res, ==, clone, Universidad, toString, args, alumnos, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala)[0m
-[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, direccion, wait, $asInstanceOf, equals, asInstanceOf, synchronized, numSeguroSocial, $isInstanceOf, car, matricula, nombre, notifyAll, sex, isInstanceOf, dir, <init>, nom, ==, clone, sexo, fechaNac, Alumno, toString, !=, getClass, fechaNacimiento, ne, eq, ##, finalize, hashCode, seguroSocial, carrera.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(direccion, matricula, nombre, <init>, ==, sexo, Alumno, fechaNacimiento, carrera)[0m
-[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
-[0m[[0mdebug[0m] [0mIncluding /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala by /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
-[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	notify, direccion, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, nombre, notifyAll, isInstanceOf, <init>, ==, clone, sexo, Persona, toString, !=, getClass, fechaNacimiento, ne, eq, ##, finalize, hashCode, seguroSocial, carrera.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(direccion, nombre, <init>, ==, sexo, fechaNacimiento, carrera)[0m
-[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala: Set(direccion, asInstanceOf, nombre, <init>, sexo, Persona, fechaNacimiento, seguroSocial, carrera)[0m
-[0m[[0mdebug[0m] [0mNew invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala:3: not found: value carre[0m
+[0m[[31merror[0m] [0mclass Alumno(val nom:String,val numSeguroSocial:String,val dir:String,val sex:Char,val fechaNac:DateTime ,val carrera :String,val matricula : String)extends Persona(nom,numSeguroSocial,dir,sex,fechaNac,carre){[0m
+[0m[[31merror[0m] [0m                                                                                                                                                                                                          ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala:9: not found: value historal[0m
+[0m[[31merror[0m] [0m  	val notasSinCalificacion = historal.notasSinCalificacion()[0m
+[0m[[31merror[0m] [0m  	                           ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala:20: value segSocial is not a member of ejercicios.universidad.Alumno[0m
+[0m[[31merror[0m] [0m  	println("Seguro Social: " + this.segSocial + " \n")[0m
+[0m[[31merror[0m] [0m  	                                 ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala:21: value segSocial is not a member of ejercicios.universidad.Alumno[0m
+[0m[[31merror[0m] [0m  	println("Direccion: " + this.segSocial + " \n")[0m
+[0m[[31merror[0m] [0m  	                             ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala:5: value matricula is defined twice[0m
+[0m[[31merror[0m] [0m  conflicting symbols both originated in file '/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala'[0m
+[0m[[31merror[0m] [0m  def matricula():String ={[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala:9: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m    cont++[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala:15: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m        contAlum ++[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala:18: not found: value alumno[0m
+[0m[[31merror[0m] [0m    return alumno[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala:31: value update is not a member of ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m        alums(i)=alumnos(i)[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala:32: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m        con ++[0m
+[0m[[31merror[0m] [0m            ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala:35: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m required: Array[ejercicios.universidad.Alumno][0m
+[0m[[31merror[0m] [0m    return alums[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala:5: value nombre is defined twice[0m
+[0m[[31merror[0m] [0m  conflicting symbols both originated in file '/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala'[0m
+[0m[[31merror[0m] [0m	def nombre():String={[0m
+[0m[[31merror[0m] [0m	    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala:8: value update is not a member of ejercicios.universidad.Asignatura[0m
+[0m[[31merror[0m] [0m		asignatura(cont) = asignatura[0m
+[0m[[31merror[0m] [0m		^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala:9: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m		cont ++[0m
+[0m[[31merror[0m] [0m		     ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala:16: not found: value deptos[0m
+[0m[[31merror[0m] [0m  			deptos(i)=departamentos(i)[0m
+[0m[[31merror[0m] [0m  			^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala:17: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  			con ++[0m
+[0m[[31merror[0m] [0m  			    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala:20: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m required: Array[ejercicios.universidad.Asignatura][0m
+[0m[[31merror[0m] [0m  	return asignaturas[0m
+[0m[[31merror[0m] [0m  	       ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala:4: value carrera is defined twice[0m
+[0m[[31merror[0m] [0m  conflicting symbols both originated in file '/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala'[0m
+[0m[[31merror[0m] [0m  def carrera():String={[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala:8: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m    cont ++[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala:15: value update is not a member of ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m  			deptos(i)=departamentos(i)[0m
+[0m[[31merror[0m] [0m  			^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala:16: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  			con ++[0m
+[0m[[31merror[0m] [0m  			    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala:19: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m required: Array[ejercicios.universidad.Departamento][0m
+[0m[[31merror[0m] [0m  	return deptos[0m
+[0m[[31merror[0m] [0m  	       ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala:22: not found: value con[0m
+[0m[[31merror[0m] [0m  	con[0m
+[0m[[31merror[0m] [0m  	^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala:8: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  	con ++ [0m
+[0m[[31merror[0m] [0m  	    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala:16: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  			con ++[0m
+[0m[[31merror[0m] [0m  			    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala:6: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : Unit[0m
+[0m[[31merror[0m] [0m required: Boolean[0m
+[0m[[31merror[0m] [0m  	if(this.calificacion == 0){[0m
+[0m[[31merror[0m] [0m  	^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala:11: reassignment to val[0m
+[0m[[31merror[0m] [0m  	this.calificacion = calificacion[0m
+[0m[[31merror[0m] [0m  	                  ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala:4: value carrera is defined twice[0m
+[0m[[31merror[0m] [0m  conflicting symbols both originated in file '/home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala'[0m
+[0m[[31merror[0m] [0m  def carrera():String = {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala:8: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m    cont ++[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala:15: value update is not a member of ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m  			profes(i)=profesores(i)[0m
+[0m[[31merror[0m] [0m  			^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala:16: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  			con ++[0m
+[0m[[31merror[0m] [0m  			    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala:19: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : ejercicios.universidad.Departamentos[0m
+[0m[[31merror[0m] [0m required: Array[ejercicios.universidad.Profesor][0m
+[0m[[31merror[0m] [0m  	return profes[0m
+[0m[[31merror[0m] [0m  	       ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:9: value update is not a member of ejercicios.universidad.Profesores[0m
+[0m[[31merror[0m] [0m		this.profesores(contProfesores) = profesor[0m
+[0m[[31merror[0m] [0m		     ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:10: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m		contProfesores ++[0m
+[0m[[31merror[0m] [0m		               ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:13: value update is not a member of ejercicios.universidad.Alumnos[0m
+[0m[[31merror[0m] [0m  		this.becarios(contBecarios) = becario[0m
+[0m[[31merror[0m] [0m  		     ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:14: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  		contBecarios ++[0m
+[0m[[31merror[0m] [0m  		             ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:20: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : ejercicios.universidad.Profesores[0m
+[0m[[31merror[0m] [0m required: Array[ejercicios.universidad.Profesor][0m
+[0m[[31merror[0m] [0m  		return this.profesores[0m
+[0m[[31merror[0m] [0m  		            ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:23: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : ejercicios.universidad.Alumnos[0m
+[0m[[31merror[0m] [0m required: Array[ejercicios.universidad.Alumno][0m
+[0m[[31merror[0m] [0m  		this.becarios[0m
+[0m[[31merror[0m] [0m  		     ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala:16: value codigo is defined twice[0m
+[0m[[31merror[0m] [0m  conflicting symbols both originated in file '/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala'[0m
+[0m[[31merror[0m] [0m  	def codigo():String={[0m
+[0m[[31merror[0m] [0m  	    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala:4: not found: type proyecto[0m
+[0m[[31merror[0m] [0m	val proyectos = new Array[proyecto][0m
+[0m[[31merror[0m] [0m	                          ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala:7: not found: value cont[0m
+[0m[[31merror[0m] [0m    	cont ++[0m
+[0m[[31merror[0m] [0m    	^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala:10: not found: value cont[0m
+[0m[[31merror[0m] [0m  		cont[0m
+[0m[[31merror[0m] [0m  		^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala:18: not found: value proyecto[0m
+[0m[[31merror[0m] [0m    return proyecto[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:6: not found: value cont[0m
+[0m[[31merror[0m] [0m		secciones(cont) = seccion[0m
+[0m[[31merror[0m] [0m		          ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:7: not found: value cont[0m
+[0m[[31merror[0m] [0m    	cont++[0m
+[0m[[31merror[0m] [0m    	^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:10: not found: value cont[0m
+[0m[[31merror[0m] [0m  		cont[0m
+[0m[[31merror[0m] [0m  		^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:13: not found: type secciones[0m
+[0m[[31merror[0m] [0m		val sec = new secciones()[0m
+[0m[[31merror[0m] [0m		              ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:18: value ++ is not a member of Int[0m
+[0m[[31merror[0m] [0m  				con ++[0m
+[0m[[31merror[0m] [0m  				    ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:21: not found: value profes[0m
+[0m[[31merror[0m] [0m  		return profes[0m
+[0m[[31merror[0m] [0m  		       ^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:24: not found: value cont[0m
+[0m[[31merror[0m] [0m  		cont[0m
+[0m[[31merror[0m] [0m  		^[0m
+[0m[[31merror[0m] [0m/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala:23: method total is defined twice[0m
+[0m[[31merror[0m] [0m  conflicting symbols both originated in file '/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala'[0m
+[0m[[31merror[0m] [0m	def total():Int = {[0m
+[0m[[31merror[0m] [0m	    ^[0m
+[0m[[31merror[0m] [0m51 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
