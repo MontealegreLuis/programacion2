@@ -1,12 +1,21 @@
 package Ejercicios.Universidad
 
+class Alumnos(){
+	val alumns = new Array[Alumno](10)
+	var i = 0
 
-class Alumnos(licenciatura:String,años:Float,asignaturas:Asignaturas) extends Persona(nombre:String,ssocial:Int,direccion:String,sexo:String,nacimiento:String){
+	def agregar(alumno:Alumno){
+		alumns(i) = alumno
+		i = i + 1
+		println("Registro Exitoso")
+	}
 
-	val lic = licenciatura
-	val a = años
-	val asign = asignaturas
+	def delacarrera(carrera:String) {
+		
+	}
 
+	def conmatricula(matricula:String) {
 
+	}
 
 }
