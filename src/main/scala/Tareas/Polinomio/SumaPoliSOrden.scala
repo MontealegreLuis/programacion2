@@ -48,4 +48,4 @@ def main(args: Array[String]) {
 		println(p2.mostrar())
 		println("El resultado es: " + resultado.mostrar())
 }
-+}
+}

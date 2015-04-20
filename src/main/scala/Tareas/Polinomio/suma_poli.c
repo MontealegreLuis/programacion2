@@ -17,4 +17,4 @@ printf("La suma es:\n");
 
 printf(" %d x + %d",suma,suma2);
 
-+}
+}
