@@ -1,0 +1,68 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 25b229e5, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/miguel/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 11.778459958 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala by /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala[0m
+[0m[[0mdebug[0m] [0mIncluding /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala by /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala, /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/abst.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, area, wait, $asInstanceOf, getArea, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala: Set(area, <init>)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala: Set(area, <init>)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala: Set(getArea, <init>, ==)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala: Set(getArea, <init>, ==)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/recta.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, getArea, equals, asInstanceOf, synchronized, a, $isInstanceOf, rectangulo, notifyAll, isInstanceOf, <init>, b, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala: Set(getArea, rectangulo, <init>, ==)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, areas, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/circu.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, pi, wait, circulo, $asInstanceOf, getArea, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, r, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/miguel/Documentos/programacion2/src/main/scala/Tareas/Areas/objareas.scala: Set(circulo, getArea, <init>, ==)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
