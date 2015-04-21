@@ -10,6 +10,10 @@ class Seccion(grup: Int, cuat: String, year: Int, asig: Asignatura, profe: Profe
      return asignatura.carrera()
   }
 
+  def nombre(): String =  {
+     return asignatura.nomb()
+  }
+
   def cuatrimestre(): String = {
     return cuatri;
   }

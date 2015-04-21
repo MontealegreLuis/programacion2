@@ -10,4 +10,9 @@ class Asignatura(nomb: String, codi: String, descri: String, dep: Departamento, 
     return carre;
   }
 
+
+ def nomb (): String = 
+   {
+     return nombre
+   }
 }

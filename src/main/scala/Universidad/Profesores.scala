@@ -15,9 +15,17 @@ class Profesores()
       }
 
       def deLaCarrera(carrera: String) :  Array[Profesor] = {
-        val tmp = new Array[Profesor](1000)
+        var cont = 0;
+        for ( i <- 0 to index-1 )
+        {
+          if ( profesores(i).carrera() == carrera )
+          {
+            cont = cont + 1
+          }
+        }
+        val tmp = new Array[Profesor](cont)
         var indexaux = 0
-        for ( i <- 0 to index )
+        for ( i <- 0 to index-1 )
         {
           if ( profesores(i).carrera() == carrera )
           {

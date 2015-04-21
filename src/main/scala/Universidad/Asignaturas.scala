@@ -14,9 +14,19 @@ class Asignaturas(){
       }
 
       def deLaCarrera(carrera: String) :  Array[Asignatura] = {
-        val tmp = new Array[Asignatura](100)
+        //::::::::::::::::::::
+        var cont = 0;
+        for ( i <- 0 to index-1 )
+        {
+          if ( asignaturas(i).carrera() == carrera )
+          {
+            cont = cont + 1
+          }
+        }
+        val tmp = new Array[Asignatura](cont)
+        //:::::::::::::::::::::::::::::::::::::::
         var indexaux = 0
-        for ( i <- 0 to index )
+        for ( i <- 0 to index-1 )
         {
           if ( asignaturas(i).carrera() == carrera )
           {

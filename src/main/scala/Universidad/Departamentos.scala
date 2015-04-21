@@ -13,14 +13,25 @@ class Departamentos(){
       }
 
       def deLaCarrera(carrera: String) :  Array[Departamento] = {
-        val tmp = new Array[Departamento](100)
+
+        //:::::::::::::::::::
+        var cont = 0;
+        for ( i <- 0 to index-1 )
+        {
+          if ( departamentos(i).carrer() == carrera )
+          {
+            cont = cont + 1
+          }
+        }
+        val tmp = new Array[Departamento](cont)
+        //::::::::::::::::::::::
         var indexaux = 0
-        for ( i <- 0 to index )
+        for ( i <- 0 to index-1 )
         {
           if ( departamentos(i).carrer() == carrera )
           {
             tmp(indexaux) = departamentos(i)
-            index = index + 1
+            indexaux = indexaux + 1
           }
         }
         return tmp

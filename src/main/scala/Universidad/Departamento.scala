@@ -8,4 +8,8 @@ class Departamento(nomb: String, tel: Int, carr: String, dire: Profesor)
     return carre;
   }
 
+  def getNombre(): String = {
+    return nombre
+  }
+
 }

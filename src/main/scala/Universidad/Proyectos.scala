@@ -8,6 +8,7 @@ class Proyectos(){
    }
 
    def conCodigo(codigo: String ): Proyecto = {
+
      for ( i <- 0 to index)
      {
        if ( proyecto(i).codigo() == codigo )

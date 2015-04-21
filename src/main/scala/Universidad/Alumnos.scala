@@ -1,7 +1,7 @@
 class Alumnos()
 {
-    private val alumnos =  new Array[Alumno](10)
-    private val tope = 10
+    private val alumnos =  new Array[Alumno](1000)
+    private val tope = 1000
     private var index = 0
 
     def agregar(alumno: Alumno)
@@ -14,10 +14,21 @@ class Alumnos()
     }
 
     def deLaCarrera(carrera: String) :  Array[Alumno] = {
-      
-      var tmp = new Array[Alumno](10)
+      //:::::::::::::::::::::::::::::::
+      var cont = 0;
+        for ( i <- 0 to index-1 )
+        {
+          if ( alumnos(i).carrera() == carrera )
+          {
+            cont = cont + 1
+          }
+        }
+        val tmp = new Array[Alumno](cont)
+
+        //:::::::::::::::::::::
+
       var indexaux = 0
-      for ( i <- 0 to index )
+      for ( i <- 0 to index-1 )
       {
         if ( alumnos(i).carrera() == carrera )
         {
@@ -29,7 +40,7 @@ class Alumnos()
     }
 
     def conMatricula(matricula: String) : Alumno = {
-      for ( i <- 0 to index )
+      for ( i <- 0 to index-1)
       {
         if(alumnos(i).matricula() == matricula)
           return alumnos(i)

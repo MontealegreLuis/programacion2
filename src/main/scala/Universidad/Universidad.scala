@@ -66,7 +66,7 @@ object Universidad
                val carrera = readLine()
                println("Matricula:")
                val matr = readLine()
-               val fechaNacimiento = new DateTime(d,m,a,0,0)
+               val fechaNacimiento = new DateTime(a,m,d,0,0)
                val alumno =  new Alumno(nombre, numeroSeguroSocial, direccion, sexo, fechaNacimiento, carrera, matr)
                alumnos.agregar(alumno);
            case 2 =>
@@ -95,7 +95,7 @@ object Universidad
                val extencion = readInt()
                println("Salario mensual")
                val salario = readFloat()
-               val fechaNacimiento = new DateTime(d,m,a,0,0)
+               val fechaNacimiento = new DateTime(a,m,d,0,0)
                val profesor =  new Profesor(nombre, numeroSeguroSocial, direccion, sexo, fechaNacimiento, carrera, categoria, despacho, extencion, salario)
                profesores.agregar(profesor);
 
@@ -114,7 +114,7 @@ object Universidad
               var auxindex = 1;
               for ( x <- dep )
               {
-                println("["+auxindex+"] "+x)
+                println("["+auxindex+"] "+x.getNombre())
                 auxindex = auxindex + 1
               }
               val result = readInt()
@@ -134,7 +134,7 @@ object Universidad
               var auxindex = 1
               for ( x <- prof)
               {
-                println("["+auxindex+"] "+x)
+                println("["+auxindex+"] "+x.nombre())
                 auxindex = auxindex + 1
               }
               val result = readInt()
@@ -164,7 +164,7 @@ object Universidad
                var auxindex_2 = 1
                for ( x <- prof)
                {
-                 println("["+auxindex_2+"] "+x)
+                 println("["+auxindex_2+"] "+x.nombre())
                  auxindex_2 = auxindex_2 + 1
                }
                val result_2 = readInt()
@@ -185,7 +185,7 @@ object Universidad
               var auxindex = 1
               for ( x <- secc)
               {
-                println("["+auxindex+"] "+x)
+                println("["+auxindex+"] "+x.nombre())
                 auxindex = auxindex + 1
               }
               val result = readInt()
@@ -202,7 +202,7 @@ object Universidad
             var auxindex = 1
             for ( x <- mat)
             {
-              println("["+auxindex+"] "+x)
+              println("["+auxindex+"] "+x.materia())
               auxindex = auxindex + 1
             }
             val result = readInt()
@@ -243,11 +243,11 @@ object Universidad
           val institucion =  readLine()
           println("Investigador:")
           val prof = profesores.deLaCarrera(carrera)
-          val fechaInicio = new DateTime(d,m,a,0,0)
+          val fechaInicio = new DateTime(a,m,d,0,0)
           var auxindex = 1
           for ( x <- prof)
           {
-            println("["+auxindex+"] "+x)
+            println("["+auxindex+"] "+x.nombre())
             auxindex = auxindex + 1
           }
           val result = readInt()
@@ -265,7 +265,7 @@ object Universidad
               var auxindex = 1
               for ( x <- prof)
               {
-                println("["+auxindex+"] "+x)
+                println("["+auxindex+"] "+x.nombre())
                 auxindex = auxindex + 1
               }
               val result = readInt()
@@ -281,7 +281,7 @@ object Universidad
               var auxindex = 1
               for ( x <- alum)
               {
-                println("["+auxindex+"] "+x)
+                println("["+auxindex+"] "+x.nombre())
                 auxindex = auxindex + 1
               }
               val result = readInt()

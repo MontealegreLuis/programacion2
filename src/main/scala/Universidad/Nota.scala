@@ -7,6 +7,11 @@ class Nota(sec: Seccion)
      calificacion = cali
    }
 
+   def materia():String =
+   {
+     return seccion.nombre();
+   }
+
    def tieneCalificacion(): Boolean ={
      if ( calificacion == -1.0)
       return false
