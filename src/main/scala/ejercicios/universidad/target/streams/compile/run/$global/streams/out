@@ -11,7 +11,7 @@
 java.io.EOFException: Console has reached end of input
 	at scala.Console$.readChar(Console.scala:334)
 	at scala.Predef$.readChar(Predef.scala:295)
-	at ejercicios.universidad.Universidad$delayedInit$body.apply(UniversidadTest.scala:39)
+	at ejercicios.universidad.Universidad$delayedInit$body.apply(UniversidadTest.scala:43)
 	at scala.Function0$class.apply$mcV$sp(Function0.scala:40)
 	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:12)
 	at scala.App$$anonfun$main$1.apply(App.scala:71)

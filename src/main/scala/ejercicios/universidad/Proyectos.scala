@@ -1,20 +1,23 @@
 package ejercicios.universidad
 import com.github.nscala_time.time.Imports._
 class Proyectos{
-	val proyectos = new Array[proyecto]
+	var cont : Int = 0
+	var posicion = 0
+	val proyectos = new Array[Proyecto](20)
 	def agregar(proyecto:Proyecto){
 		proyectos(cont)=proyecto
-    	cont ++
+    	cont = cont+1
 	}
 	def total():Int = {
   		cont
   	}
   	def conCodigo(codigo:String):Proyecto ={
   	for(i <- 0 to proyectos.length){
-      if(proyectos(i).codigo() == codigo){
-        val proyecto = proyectos(i)
+      if(proyectos(i).Codigo() == codigo){
+        posicion = i
       }
     }
+    val proyecto = proyectos(posicion)
     return proyecto
   	}
-}
+} 

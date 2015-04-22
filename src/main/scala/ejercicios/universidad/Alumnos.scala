@@ -6,15 +6,17 @@ class Alumnos{
   var contAlum = 0
   def agregar(alumno:Alumno){
     alumnos(cont) = alumno
-    cont++
+    cont=cont+1
   }
   def conMatricula(mat : String):Alumno ={
+    var posicion=0
     for(i <- 0 to alumnos.length){
-      if(alumnos(i).matricula() == mat){
-        val alumno = alumnos(i)
-        contAlum ++
+      if(alumnos(i).Matricula() == mat){
+        posicion = i
+        contAlum = contAlum+1
       }
     }
+    val alumno = alumnos(posicion)
     return alumno
   }
   def total():Int={
@@ -24,12 +26,12 @@ class Alumnos{
     contAlum
   }
   def deLaCarrera(carrera : String):Array[Alumno]={
-    val alums = new Departamentos()
+    val alums = new Array[Alumno](20)
     var con = 0
     for(i <- 0 to alumnos.length){
       if(alumnos(i).carrera == carrera){
         alums(i)=alumnos(i)
-        con ++
+        con = con+1
       }
     }
     return alums

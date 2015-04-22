@@ -5,15 +5,15 @@ class Profesores{
   var cont = 0
   def agregar(profesor:Profesor){
     profesores(cont)=profesor
-    cont ++
+    cont = cont+1
   }
   def deLaCarrera(carrera : String): Array[Profesor] = {
-  	val profes = new Departamentos()
+  	val profes = new Array[Profesor](20)
   	var con = 0
   	for(i <- 0 to profesores.length){
   		if(profesores(i).carrera == carrera){
   			profes(i)=profesores(i)
-  			con ++
+  			con = con+1
   		}
   	}
   	return profes

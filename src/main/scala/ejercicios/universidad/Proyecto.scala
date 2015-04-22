@@ -1,19 +1,19 @@
 package ejercicios.universidad
 import com.github.nscala_time.time.Imports._
 class Proyecto(val carrera:String,val nombre:String,val codigo:String,val fechaInicio:DateTime,val subvencion :Float,val institucion:String){
-	val profesores = new Profesores()
-	val becarios = new Alumnos()
+	val profesores = new Array[Profesor](20)
+	val becarios = new Array[Alumno](20)
 	var contProfesores = 0
 	var contBecarios = 0
 	def agregarProfesor(profesor:Profesor){
 		this.profesores(contProfesores) = profesor
-		contProfesores ++
+		contProfesores = contProfesores+1
 	}
   	def agregarBecario(alumno:Alumno){
-  		this.becarios(contBecarios) = becario
-  		contBecarios ++
+  		becarios(contBecarios) = alumno
+  		contBecarios = contBecarios+1
   	}
-  	def codigo():String={
+  	def Codigo():String={
   		return this.codigo
   	}
   	def profesor():Array[Profesor]={

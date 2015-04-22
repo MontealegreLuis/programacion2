@@ -5,15 +5,15 @@ class HistorialAcademico {
   val notas = new Array [Nota](20)
   def agregarNota(nota:Nota){
   	notas(con) = nota
-  	con ++ 
+  	con = con+1 
   }
   def notasSinCalificacion(): Array[Nota] = {
   	val notaSinCal = new Array[Nota](10)
   	var con = 0
   	for(i <- 0 to notas.length){
-  		if(notas(i).tieneCalificacion() == false){
+  		if(!notas(i).tieneCalificacion()){
   			notaSinCal(i) = notas(i)
-  			con ++
+  			con =con+1
   		}
   	}
   	return notaSinCal

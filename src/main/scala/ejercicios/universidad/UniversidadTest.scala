@@ -306,7 +306,7 @@ object Universidad extends App{
                     val seccionesQueCoinciden = secciones.queCoincidanCon(carrera,cuatrimestre,aniio)
                     println("\n Seccion: \n")
                     for(i <- 0 to seccionesQueCoinciden.length){
-                      println(" [ " +  i+1 + " ] " + seccionesQueCoinciden(i).asignatura.nombre() + " - " + seccionesQueCoinciden(i).profesor.nombre())
+                      println(" [ " +  i+1 + " ] " + seccionesQueCoinciden(i).asignatura.Nombre() + " - " + seccionesQueCoinciden(i).profesor.Nombre())
                     }
                     val seleccionado = readInt()
                     val seccion = seccionesQueCoinciden(seleccionado)
@@ -474,7 +474,7 @@ object Universidad extends App{
                     val carreraDeCodigo = proyectoConCodigo.Carrera()
                     val profesDeLaCarrera = profesores.deLaCarrera(carreraDeCodigo)
                     for(i <- 0 to profesDeLaCarrera.length){
-                      println("[ " + i+1 + " ]" + profesDeLaCarrera(i).nombre())
+                      println("[ " + i+1 + " ]" + profesDeLaCarrera(i).Nombre())
                     }
                     println("\n que profesor desea agregar al proyecto como investigador: \n")
                     var seleccionado = readInt()
@@ -513,7 +513,7 @@ object Universidad extends App{
                     val carreraDeCodigo = proyectoConCodigo.Carrera()
                     val becariosDeLaCarrera = alumnos.deLaCarrera(carreraDeCodigo)
                     for(i <- 0 to becariosDeLaCarrera.length){
-                      println("[ " + i+1 + " ]" + becariosDeLaCarrera(i).nombre())
+                      println("[ " + i+1 + " ]" + becariosDeLaCarrera(i).Nombre())
                     }
                     println("\n que becario desea agregar al proyecto como investigador: \n")
                     var seleccionado = readInt()

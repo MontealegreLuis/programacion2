@@ -1,13 +1,11 @@
 package ejercicios.universidad
 class Nota(sec:Seccion){
   val seccion=sec
-  val calificacion :Float =0 
+  var calificacion :Float = 0
   def tieneCalificacion():Boolean = {
-  	if(this.calificacion == 0){
-  		false
-  	}
+  	this.calificacion == 0
   }
-  def Calificar(calificacion : Int){
-  	this.calificacion = calificacion
+  def Calificar(cali : Int){
+  	this.calificacion = cali
   }
 }
