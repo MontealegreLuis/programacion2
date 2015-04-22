@@ -113,7 +113,7 @@ object Universidad extends App{
                   val profesor = new Profesor(nombre,numSegSocial,direccion,sexo,fechaNacimiento,carrera,categoria,despacho,extencion,salario)
                   profesores.agregar(profesor)
                   if(profesores.total() >= 20){
-                    println("\n ya no se pueden ingresar mas profesores \n")
+                    println("\n ya no se puede ingresar mas profesores \n")
                   }
                   printf("\n desea capturar datos de otro profesor? 1.> Si\t2.>No")
                   res2 = readInt()
