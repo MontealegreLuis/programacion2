@@ -8,16 +8,17 @@ class Departments{
             departments(aux) = department
             aux = aux + 1
         }
-        //def ofCareer(career:String):Array[Department] = {
-            /*val depts = new Departments()
-                for (i<-0 to departments.length){
-        if(departments(i).career==career){
+        
+        def ofCareer(career:String):Array[Department] = {
+            val depts = new Array [Department](10)
+                for (i <- 0 to departments.length){
+                    if(departments(i).Career == career){
                         depts(i) = departments(i)
-                        aux2 = aux2 + 1
+                            aux2 = aux2 + 1
                     }
                 }
-            return Array[depts]*/
-        //}
+            depts
+        }
         def totalAux():Int = aux    
         def totalAux2():Int = aux2
 }

@@ -1,12 +1,11 @@
 package parcial3.university
 import com.github.nscala_time.time.Imports._
-class Person (var name: String, 
-              var socialSecurityNumber: String, 
-              var address: String, 
-              var sex: Char, 
-              var dateOfBirth: DateTime){
-        def career(): String = {
-            return career
-        }
-    
-}
+class Person(val name: String,
+             val socialSecurityNumber: String,
+             val address: String,
+             val sex: Char,
+             val dateOfBirth: DateTime,
+             val career:String)
+{
+    def Career(): String = career
+}//End class Person

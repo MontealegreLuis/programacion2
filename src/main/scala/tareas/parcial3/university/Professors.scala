@@ -1,21 +1,24 @@
 package parcial3.university
 class Professors{
-    val teachers = new Array[Professor](10)
-    var aux = 0
-        def add(teacher:Professor){
-        teachers(aux) = teacher
-        aux = aux + 1
+    val professors = new Array[Professor](20)
+    private var aux: Int = 0
+    private var aux2: Int = 0
+        def add(professor:Professor){
+            professors(aux) = professor
+            aux = aux + 1
+            println("\nEl Profesor se ha agregado con exito")
         }
-        //def ofCareer(career:String): Array[Professor] = {
-            /*var tc = new Departments()
-            var aux2 = 0
-                for (i <- 0 to teachers.length){
-                    if (teachers(i).career = career){
-                tc(i) = teachers(i)
-                    aux2 = aux2 + 1
-                    } 
-                }*/
-        //} 
+        def ofCareer(career:String): Array[Professor] = {
+            var profs = new Array[Professor](20)
+                for (i <- 0 to professors.length){
+                    if (professors(i).career == career){
+                        profs(i) = professors(i)                        
+                        aux2 = aux2 + 1
+                    }
+                }
+          profs
+        } 
         def total():Int = aux
+        def totalOfCareer():Int = aux2
 }
         
