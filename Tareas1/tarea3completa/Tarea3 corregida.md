@@ -1,0 +1,196 @@
+#Targeta crc para el juego de blakjack
+
+
+<table border="2px">
+<caption>Targeta</caption>
+<tr>
+<td> responsabilidad</td>
+<td> Colaboracion</td>
+
+
+</tr>
+
+<tr>
+<td> obtener nombre</td>
+<td> Baraja</td>
+
+
+</tr>
+
+<tr>
+<td> obtener valor</td>
+<td> </td>
+
+
+</tr>
+
+
+</table>
+
+
+
+<table border="2px">
+<caption>Baraja</caption>
+<tr>
+<td> responsabilidad</td>
+<td> Colaboracion</td>
+
+
+</tr>
+
+<tr>
+<td> reiniciar abaraja</td>
+<td> repartidor</td>
+
+
+</tr>
+
+<tr>
+<td> Tamaño de la baraja</td>
+<td> targeta</td>
+
+
+</tr>
+
+
+<tr>
+<td> targeta aleatoria</td>
+<td> </td>
+
+
+</tr>
+
+<tr>
+<td> Mostrar baraja</td>
+<td> </td>
+
+
+</tr>
+
+
+</table>
+
+
+
+<table border="2px">
+<caption>Mano</caption>
+<tr>
+<td> responsabilidad</td>
+<td> Colaboracion</td>
+
+
+</tr>
+
+<tr>
+<td> retornar valor </td>
+<td> jugador</td>
+
+
+</tr>
+
+<tr>
+<td> añadir una targeta</td>
+<td> rapartidor</td>
+
+
+</tr>
+
+<tr>
+<td> Mostrar mano</td>
+<td> </td>
+
+
+</tr>
+</table>
+
+
+
+
+<table border="2px">
+<caption>Repartidor</caption>
+<tr>
+<td> responsabilidad</td>
+<td> Colaboracion</td>
+
+
+</tr>
+
+<tr>
+<td> comensar un nuevo juego</td>
+<td> Mano</td>
+
+
+</tr>
+
+<tr>
+<td> obtener una targeta 	</td>
+<td> jugador</td>
+
+
+</tr>
+
+<tr>
+<td> 	</td>
+<td> baraja</td>
+
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+<table border="2px">
+<caption>Jugador</caption>
+<tr>
+<td> responsabilidad</td>
+<td> Colaboracion</td>
+
+
+</tr>
+
+<tr>
+<td> Necesita mas cartas</td>
+<td> mano</td>
+
+
+</tr>
+
+<tr>
+<td> obtener targeta</td>
+<td> Baraja</td>
+
+
+</tr>
+
+<tr>
+<td> mostrar mano</td>
+<td> </td>
+
+
+</tr>
+
+<tr>
+<td> obtener el valor de la mano</td>
+<td> </td>
+
+
+</tr>
+
+
+
+</table>
+
+</table>
+
+
+
+
+![Tarjeta CRC](diagrama\ uml.png)
+
+![Tarjeta CRC](diagrama2.png)
+
