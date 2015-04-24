@@ -1,0 +1,190 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 16 sources: invalidated sources (16) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 16 Scala sources to /home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7be0eaec, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/mario/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/mario/programacion2/src/main/scala/ejercicios/universidad/target/scala-2.10/classes:/home/mario/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.8.0.jar:/home/mario/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar:/home/mario/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 11.099553794 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	proyectos, profesores, alumnos, asignaturas, secciones, departamentos, notas.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, agregar, cont, totalCon, wait, $asInstanceOf, con, equals, asInstanceOf, synchronized, $isInstanceOf, total, notifyAll, Secciones, isInstanceOf, <init>, ==, clone, toString, !=, getClass, secciones, ne, eq, ##, finalize, hashCode, queCoincidanCon.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(agregar, totalCon, total, Secciones, <init>, ==, !=, secciones, queCoincidanCon)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, agregar, cont, wait, $asInstanceOf, equals, asInstanceOf, Proyectos, conCodigo, synchronized, proyectos, $isInstanceOf, total, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, posicion, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(agregar, Proyectos, conCodigo, proyectos, total, <init>, ==, !=)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	profesor, notify, codigo, wait, $asInstanceOf, equals, Codigo, asInstanceOf, mostrarDatos, synchronized, $isInstanceOf, institucion, nombre, notifyAll, becario, isInstanceOf, Proyecto, contProfesores, <init>, profesores, fechaInicio, ==, Carrera, clone, agregarBecario, subvencion, becarios, toString, !=, contadorProfesores, contadorBecarios, contBecarios, getClass, ne, eq, ##, finalize, hashCode, carrera, agregarProfesor.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(profesor, codigo, mostrarDatos, institucion, nombre, becario, Proyecto, <init>, profesores, fechaInicio, ==, Carrera, agregarBecario, subvencion, !=, contadorProfesores, contadorBecarios, carrera, agregarProfesor)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyectos.scala: Set(codigo, Codigo, Proyecto, <init>, ==)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	telefono, notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, nombre, notifyAll, isInstanceOf, <init>, ==, Carrera, clone, director, toString, !=, getClass, ne, Departamento, eq, ##, finalize, hashCode, carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala: Set(<init>, ==, Departamento, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala: Set(asInstanceOf, nombre, <init>, Departamento, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(telefono, nombre, <init>, ==, Carrera, director, !=, Departamento, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala: Set(nombre, <init>, Departamento, carrera)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamentos.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, agregar, cont, totalCon, wait, $asInstanceOf, con, equals, Departamentos, asInstanceOf, synchronized, $isInstanceOf, total, notifyAll, isInstanceOf, <init>, ==, clone, deLaCarrera, toString, !=, getClass, departamentos, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(agregar, totalCon, Departamentos, total, <init>, ==, deLaCarrera, !=, departamentos)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignatura.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, codigo, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, Asignatura, nombre, notifyAll, isInstanceOf, <init>, ==, clone, Nombre, toString, descripcion, !=, getClass, departamento, ne, eq, ##, finalize, hashCode, carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala: Set(Asignatura, <init>, ==, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(codigo, Asignatura, nombre, <init>, ==, Nombre, descripcion, !=, departamento, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala: Set(Asignatura, <init>, carrera)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, agregar, cont, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, total, notifyAll, isInstanceOf, <init>, profesores, ==, clone, deLaCarrera, toString, Profesores, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(agregar, total, <init>, profesores, ==, deLaCarrera, Profesores, !=)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, tieneCalificacion, equals, asInstanceOf, calificacion, synchronized, $isInstanceOf, Calificar, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, Nota, ne, seccion, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala: Set(tieneCalificacion, <init>, Nota)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(calificacion, Calificar, <init>, ==, !=, seccion)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala: Set(asInstanceOf, <init>, Nota)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, direccion, wait, $asInstanceOf, despacho, equals, asInstanceOf, mostrarDatos, categoria, asignarADepartamento, synchronized, $isInstanceOf, car, nombre, notifyAll, sex, isInstanceOf, dir, <init>, nom, ==, Carrera, clone, sexo, extencion, fechaNac, Nombre, segSocial, toString, !=, salario, getClass, fechaNacimiento, Profesor, ne, eq, ##, finalize, hashCode, seguroSocial, carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala: Set(nombre, <init>, Profesor, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(direccion, despacho, mostrarDatos, categoria, nombre, <init>, ==, Carrera, sexo, extencion, Nombre, !=, salario, fechaNacimiento, Profesor, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala: Set(<init>, ==, Profesor, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala: Set(<init>, Profesor, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala: Set(nombre, <init>, Profesor, carrera)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala by /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala[0m
+[0m[[0mdebug[0m] [0mIncluding /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala by /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala, /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Persona.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	Carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(Carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(Carrera)[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesor.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Departamento.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(Carrera)[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Profesores.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	historial, mostrarDatos, Matricula, materiasSinCalificar, Carrera, contador, Nombre.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala: Set(Matricula)[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/mario/programacion2/src/main/scala/ejercicios/universidad/Proyecto.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(historial, mostrarDatos, materiasSinCalificar, Carrera, Nombre)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumnos.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, agregar, cont, wait, $asInstanceOf, equals, asInstanceOf, contAlum, synchronized, $isInstanceOf, totalAlum, total, notifyAll, isInstanceOf, conMatricula, <init>, ==, clone, deLaCarrera, toString, alumnos, !=, Alumnos, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(agregar, total, conMatricula, <init>, ==, deLaCarrera, alumnos, !=, Alumnos)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/HistorialAcademico.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, totalCon, wait, $asInstanceOf, con, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, HistorialAcademico, ==, clone, agregarNota, toString, !=, getClass, notasSinCalificacion, ne, eq, ##, finalize, hashCode, notas.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(totalCon, <init>, HistorialAcademico, ==, agregarNota, !=, notasSinCalificacion, notas)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Alumno.scala: Set(totalCon, asInstanceOf, <init>, HistorialAcademico, notasSinCalificacion)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/Asignaturas.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, agregar, cont, totalCon, wait, $asInstanceOf, con, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, Asignaturas, ==, clone, deLaCarrera, toString, !=, getClass, asignaturas, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(agregar, totalCon, <init>, Asignaturas, ==, deLaCarrera, !=, asignaturas)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mario/programacion2/src/main/scala/ejercicios/universidad/seccion.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	profesor, notify, Seccion, wait, $asInstanceOf, equals, asInstanceOf, synchronized, asignatura, $isInstanceOf, grupo, anio, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, cuatrimestre, eq, ##, finalize, hashCode, carrera.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Secciones.scala: Set(Seccion, anio, <init>, ==, cuatrimestre, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/UniversidadTest.scala: Set(profesor, Seccion, asignatura, grupo, anio, <init>, ==, !=, cuatrimestre, carrera)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/mario/programacion2/src/main/scala/ejercicios/universidad/Nota.scala: Set(Seccion, <init>, ==)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
