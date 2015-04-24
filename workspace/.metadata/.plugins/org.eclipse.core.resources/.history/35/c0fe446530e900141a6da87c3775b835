@@ -1,0 +1,36 @@
+class Monedero(a:Int, b:Int) {
+  val saldo=a
+  val pres=b
+ // def Monedero ():Monedero={
+   this(a: Int)=this(n,0)     
+  //}
+   
+}
+ /*  def Monedero (){ 
+    new Monedero(this.saldo)
+  }
+  
+  def meter (a:Int):Monedero={
+   var aux=0
+   do{
+     println("cantidad a ingresar")
+     aux=readInt
+   }while(aux<0)
+   Monedero(a+aux)  
+  }
+  
+  def sacar (a:Int):Monedero={
+    var aux=0
+    do{
+      println("Cantidad a retirar")
+      aux=readInt
+    }while(aux>a)
+    Monedero(a-aux)  
+  }
+  def consulta(a:Int){
+    var aux=Monedero(a)
+    println ("Saldo actual " + aux)
+    }
+  
+  
+}*/

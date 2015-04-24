@@ -1,0 +1,6 @@
+class Nuevo (a:String,b:Int,c:Int)extends Automovil (a,b){
+  val Costo:Int
+  def Nuevo(a:String,b:Int): Nuevo ={
+    new Nuevo (Color, Matricula,this.Costo)
+  }
+}

@@ -1,0 +1,10 @@
+#encoding=UTF-8
+#version=1
+org.scala-ide.sbt.compiler.interface.source,0.13.6.v-20150303-2034,file:/E:/eclipse/plugins/org.scala-ide.sbt.compiler.interface.source_0.13.6.v-20150303-2034.jar,-1,false
+org.scala-lang.modules.scala-parser-combinators.source,1.0.1,file:/E:/eclipse/plugins/org.scala-lang.modules.scala-parser-combinators.source_1.0.1.jar,-1,false
+org.scala-lang.modules.scala-swing.source,1.0.1,file:/E:/eclipse/plugins/org.scala-lang.modules.scala-swing.source_1.0.1.jar,-1,false
+org.scala-lang.modules.scala-xml.source,1.0.2,file:/E:/eclipse/plugins/org.scala-lang.modules.scala-xml.source_1.0.2.jar,-1,false
+org.scala-lang.scala-actors.source,2.11.6.v20150224-172222-092690e7bf,file:/E:/eclipse/plugins/org.scala-lang.scala-actors.source_2.11.6.v20150224-172222-092690e7bf.jar,-1,false
+org.scala-lang.scala-compiler.source,2.11.6.v20150224-172222-092690e7bf,file:/E:/eclipse/plugins/org.scala-lang.scala-compiler.source_2.11.6.v20150224-172222-092690e7bf.jar,-1,false
+org.scala-lang.scala-library.source,2.11.6.v20150224-172222-092690e7bf,file:/E:/eclipse/plugins/org.scala-lang.scala-library.source_2.11.6.v20150224-172222-092690e7bf.jar,-1,false
+org.scala-lang.scala-reflect.source,2.11.6.v20150224-172222-092690e7bf,file:/E:/eclipse/plugins/org.scala-lang.scala-reflect.source_2.11.6.v20150224-172222-092690e7bf.jar,-1,false

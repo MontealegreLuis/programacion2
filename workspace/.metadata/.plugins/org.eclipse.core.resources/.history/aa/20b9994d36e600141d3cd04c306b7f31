@@ -1,0 +1,9 @@
+class Modelo (i:String,j:Int,k:Int){
+  
+  val Marca:String=i
+  val Modelo:Int=j
+  val Cilindrada:Int=k
+  val Opcion= new Opcion_Modelo(DO,)
+  
+
+}

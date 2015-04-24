@@ -1,0 +1,11 @@
+class vendedor extends Persona (){
+  
+  val NSS:Int
+  val VentasE:Int
+  
+
+
+  
+  
+
+}

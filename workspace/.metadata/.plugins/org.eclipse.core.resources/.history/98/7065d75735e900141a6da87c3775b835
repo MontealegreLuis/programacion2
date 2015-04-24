@@ -1,0 +1,38 @@
+class Monedero(val Saldo:Int) {
+
+  /* def this(firstName: String) {
+    this(firstName, "", 0);
+    println("\nNo last name or age given.")
+  }*/
+  
+  
+  def this (){
+    this(0)
+    
+  }
+  
+  def meter (x: Monedero):Monedero={
+   var aux=0
+   do{
+     println("cantidad a ingresar")
+     aux=readInt
+   }while(aux<0)
+   x.Saldo=0
+   
+  }
+  
+  def sacar (a:Int):Monedero={
+    var aux=0
+    do{
+      println("Cantidad a retirar")
+      aux=readInt
+    }while(aux>a)
+    Monedero(a-aux)  
+  }
+  def consulta(a:Int){
+    var aux=Monedero(a)
+    println ("Saldo actual " + aux)
+    }
+  
+  
+}

@@ -1,0 +1,15 @@
+object Test {
+ def main(args: Array[String]){
+   
+   
+   val a1 = new Monedero(0)
+   val monedero_luis= new Monedero(0)
+   val monedero_tu= new Monedero(4)
+   
+   
+   
+   
+   
+   
+ }
+}

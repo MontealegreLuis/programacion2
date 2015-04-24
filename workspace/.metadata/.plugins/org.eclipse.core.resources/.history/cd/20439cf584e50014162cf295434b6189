@@ -1,0 +1,8 @@
+class Automovil {
+ 
+  
+  val Matricula : Int 
+  val Color : String 
+  
+  
+}

@@ -1,0 +1,7 @@
+class Automovil (nuevo: Boolean, matricula: Int, color:String ){
+ 
+  val Nuevo: Boolean 
+  val Matricula : Int 
+  val Color : String 
+  val Modelo = new Modelo 
+}

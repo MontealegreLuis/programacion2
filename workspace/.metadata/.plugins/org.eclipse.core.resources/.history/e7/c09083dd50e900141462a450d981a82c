@@ -1,0 +1,11 @@
+object Test {
+ def main(args: Array[String]){
+   
+   var listprof= Array[Profesor](100)
+   var x=0
+   val listprof(2)= new  Agregarprofe
+   
+  
+ }
+   
+}

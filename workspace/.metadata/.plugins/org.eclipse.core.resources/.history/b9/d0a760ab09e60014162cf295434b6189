@@ -1,0 +1,5 @@
+class Nuevo extends Automovil{
+  def Nuevo (){
+    new Nuevo
+  }
+}

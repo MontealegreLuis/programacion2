@@ -1,0 +1,12 @@
+class Asignatura (a:String,b:String,c:String,d:Int){
+  
+  val Nombreasig=a
+  val Codigo=b
+  val Departamento=c
+  val Descripcion=d
+  
+     def this(){
+    this("","","",0)
+  }
+   
+}

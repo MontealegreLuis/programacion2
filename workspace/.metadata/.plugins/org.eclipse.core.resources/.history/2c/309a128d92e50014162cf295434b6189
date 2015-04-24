@@ -1,0 +1,11 @@
+class Vendedor (val DNI: String, val Nombre: String, val Direccion: String, val Telefono: Int, val NSS:Int, val VentasE:Int)
+extends Persona(DNI, Nombre, Direccion, Telefono) {
+  
+ 
+  class Vendedor(){
+    new Vendedor
+  }
+  def Persona():Persona={
+    new Vendedor()
+  }
+}

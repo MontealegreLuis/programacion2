@@ -1,0 +1,11 @@
+class Automovil {
+ 
+  
+  val Matricula : Int 
+  val Color : String 
+  val Modelo = new Modelo 
+  
+  def Modelo (): Modelo{
+   new Modelo
+  }
+}

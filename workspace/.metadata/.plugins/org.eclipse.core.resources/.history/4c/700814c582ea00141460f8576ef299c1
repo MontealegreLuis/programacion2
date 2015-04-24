@@ -1,0 +1,27 @@
+class Seccion (
+    val Asignatura:String,
+    val Num_grupo:Int,
+    val Profe_respo:String,
+    val Cuatrimestre:String,
+    val Año:String){
+    def this(){
+    this("",0,"","","")
+    }
+    
+    def Agregaseccion(x:Seccion, y:Array[Profesor], z:Array[Asignatura]):Departamento={
+  
+   println ("Seleccione el director")
+   for (i<- 0 to y.length){
+     println ("["+i+1+"]  =" + y(i).Name)
+   }
+   var nam = readInt
+   var dir= y(nam).Name
+   new Seccion (nom,nss,car,dir)
+   }
+
+}/*Cada nuevo cuatrimestre se pueden organizar varios grupos de la misma asignatura (secciones). 
+Las secciones son varios grupos de la misma asignatura
+Para cada uno se guarda la asignatura, el número de grupo, 
+el profesor responsable de la asignatura de ese grupo junto al cuatrimestre
+ y 
+año en el que se impartió.*/

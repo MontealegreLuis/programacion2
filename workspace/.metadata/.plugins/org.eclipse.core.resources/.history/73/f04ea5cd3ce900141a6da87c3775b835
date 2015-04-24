@@ -1,0 +1,14 @@
+class Profesor (a: String, b: String, c: String, d: String, e:String, f:String,g:String,h:Int,i:Int,j:Int) extends Persona (a,b,c,d,e){
+  
+  val Catego:String
+  val Depto:String
+  val Num_despacho:Int
+  val Extension:Int
+  val Salario:Int
+   
+  
+  def Persona(a: String, b: String, c: String, d: String, e:String, f:String,g:String,h:Int,i:Int,j:Int):Profesor={
+   new Profesor (Name, NSS,  Direccion,  Sexo, Fecha_nac, this.Catego, this.Depto, this.Num_despacho, this.Extension, this.Salario)
+
+  }
+}

@@ -1,0 +1,10 @@
+object Test {
+ def main(args: Array[String]){
+   
+   
+ val listprof=new Array[Profesor](100)
+ val a1= new Profesor
+ listprof(0)= a1.Agregaprofe(a1)
+ 
+  println(listprof(0))
+ }}

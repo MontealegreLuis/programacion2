@@ -1,0 +1,20 @@
+object Test {
+ def main(args: Array[String]){
+   
+   
+  
+   val moma= new Monedero(15)
+   moma(meter)
+   
+
+     
+ 
+   
+   
+   
+   
+   
+   
+   
+ }
+}

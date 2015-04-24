@@ -1,0 +1,9 @@
+object main {
+def main(args: Array[String]){
+  
+    val a1= new Nuevo("rojo",3332)
+    
+    println ("Nuevo auto de color %f" + a1.Color)
+  
+  }
+}

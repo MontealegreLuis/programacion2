@@ -1,0 +1,9 @@
+class Alumno {
+  val Matricula=f
+  val Carrera=g
+  val Seccion=h
+  val notas
+/*Para los alumnos se tiene, su matrícula, la carrera,
+ *  las secciones en las que está o
+ *  estuvo inscrito y las notas que ha recibido en cada asignatura.*/
+}

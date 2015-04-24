@@ -1,0 +1,8 @@
+class cliente (a: String, b: String, c: String, d: Int) extends Persona(a,b,c,d) {
+ 
+  override def Persona(a: String, b: String, c: String, d: Int):cliente={
+   println ("mustbenewperson")
+   new cliente (DNI, Nombre,  Direccion,  Telefono)
+}
+}
+ 

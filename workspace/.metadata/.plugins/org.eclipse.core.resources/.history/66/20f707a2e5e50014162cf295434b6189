@@ -1,0 +1,5 @@
+class cliente (a: String, b: String, c: String, d: Int)
+extends Persona(a,b,c,d) {
+ 
+}
+ 

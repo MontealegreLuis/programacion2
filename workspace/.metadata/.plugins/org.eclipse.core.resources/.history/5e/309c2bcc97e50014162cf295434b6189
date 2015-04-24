@@ -1,0 +1,4 @@
+class cliente (val DNI: String, val Nombre: String, val Direccion: String, val Telefono: Int)
+extends Persona(DNI, Nombre, Direccion, Telefono) {
+  
+}

@@ -1,0 +1,5 @@
+class cliente extends Persona {
+ class cliente(s1:String,s2:String,s3:String,a1:Int){
+    new cliente
+  }
+}

@@ -1,0 +1,8 @@
+abstract class Persona (val DNI: String, val Nombre: String, val Direccion: String, val Telefono: Int) {
+  //atributos
+
+ //metodos
+  def Persona():Persona
+  
+}
+/*Esta clase contiene 4 atributos hasta telefono*/

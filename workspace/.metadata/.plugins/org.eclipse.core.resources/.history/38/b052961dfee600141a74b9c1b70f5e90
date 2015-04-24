@@ -1,0 +1,8 @@
+object concesionario {
+ 
+  def main(args: Array[String]){
+    
+    val a1= new Cliente ("2desf4","juan perez","31 sur 207",4334)
+  
+  }
+  }

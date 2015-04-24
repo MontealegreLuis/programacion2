@@ -1,0 +1,5 @@
+class Nuevo (a:String,b:Int)extends Automovil (a,b){
+  def Nuevo(a:String,b:Int): Nuevo ={
+    new Nuevo (Color, Matricula)
+  }
+}

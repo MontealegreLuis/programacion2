@@ -1,0 +1,16 @@
+class Asignatura (a:String,b:String,c:String,d:Int){
+  
+  val Nombreasig=a
+  val Codigo=b
+  val Departamento=c
+  val Descripcion=d
+  
+    def Asignatura(a: String, b: String, c: String, d:Int):Asignatura={
+    new Asignatura (Nombreasig,Codigo,Departamento,Descripcion)
+  } 
+    def this(){
+    this("","","",0)
+    
+  }
+   /*Para cada asignatura se mantiene su nombre, código, descripción y departamento.*/
+}

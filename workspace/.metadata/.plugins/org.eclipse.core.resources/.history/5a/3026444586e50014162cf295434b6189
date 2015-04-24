@@ -1,0 +1,10 @@
+class Eleccion {
+  
+  def Eleccion():Int{
+    val p1:Int
+    
+    print
+    
+   
+  }
+}
