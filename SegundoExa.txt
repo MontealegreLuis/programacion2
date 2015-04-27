@@ -1,0 +1,75 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class Juegoo {
+    public static void main(String[] args){
+        Scanner t = new Scanner(System.in);
+        Random r = new Random();
+ 
+        String ingresarJugador = "";
+        String ingresarMaquina = "";
+         
+         
+        System.out.println("Piedra,\nPapel\no\nTijera?");
+        ingresarJugador = t.next();
+         
+        while(!(ingresarJugador.equals("Piedra") || ingresarJugador.equals("Papel") || ingresarJugador.equals("Tijera"))){
+            System.out.println("Piedra, Papel o Tijera?");
+            ingresarJugador = t.next();
+        }
+ 
+        System.out.println("Usuario: " + ingresarJugador);
+ 
+        switch(r.nextInt(3)){
+            case 0: ingresarMaquina = "Piedra";
+            break;
+            case 1: ingresarMaquina = "Papel";
+            break;
+            case 2: ingresarMaquina = "Tijera";
+        }
+ 
+        System.out.println("Maquina: " + ingresarMaquina);
+ 
+        Comparar(ingresarJugador,ingresarMaquina);
+    }
+    public static void Comparar(String ingreso1, String ingreso2){
+        if(ingreso2.equals(ingreso1)){
+            System.out.println("Empate!!!");
+        }else{
+            if(ingreso1.equals("Piedra")){
+                if(ingreso2.equals("Tijera")){
+                    System.out.println("Piedra aplasta a Tijera");
+                	System.out.println("Gana usuario!!!");
+                }else{
+                    System.out.println("Papel cubre a Piedra!!!");
+                    System.out.println("Gana Maquina!!!");
+                }
+            }
+ 
+            if(ingreso1.equals("Papel")){
+                if(ingreso2.equals("Piedra")){
+                	System.out.println("Papel cubre a Piedra!!!");
+                    System.out.println("Gana Jugador  !!!");
+                }else{
+                	System.out.println("Tijera corta a Papel!!!");
+                    
+                    System.out.println("Gana Maquina!!!");
+                }
+            }
+ 
+            if(ingreso1.equals("Tijera")){
+                if(ingreso2.equals("Papel")){
+                    System.out.println("Tijera corta a Papel!!!");
+                    System.out.println("Gana Jugador!!!");
+                    
+                }else{
+                	System.out.println("Piedra aplasta a Tijera!!!");
+                    
+                    System.out.println("Gana Maquina!!!");
+                }
+            }
+        }
+         
+    }
+ 
+}
