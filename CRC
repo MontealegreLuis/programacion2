@@ -1,0 +1,32 @@
+#Pogramcion 2
+## Tarjetas crc para blackjack
+###Primera clase 
+Class: Casa| 	
+---------------------------|-------------------------------------
+Respoonsabilidades: |Colaboraciones:
+Toma cartas de baraja|carta
+Reparte a jugador|jugador
+Compara cartas entre casa y jugador
+Avisa si jugador gana o pierde
+Paga o cobra apuestas
+Pregunta al jugador si quiere empezar uina partida nueva
+
+
+
+###Segunda clase 
+Class: Casa 	|
+---------------------------|------------------------------------------
+Respoonsabilidades: |Colaboraciones:
+Reparte cartas a casa|casa
+Avisa cuantas cartas quedan|jugador
+
+###Tercera clase 
+class: jugador	|
+---------------------------|------------------------------------------
+Respoonsabilidades: |Colaboraciones:
+Pide a casa cartas|casa
+Sube o apuesta
+Paga apuesta
+Decide si juega otra ves
+Muestra cartas a casajueves
+
