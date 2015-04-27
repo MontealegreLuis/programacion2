@@ -1,0 +1,16 @@
+class eleccion {
+  
+  def eleccion():Int{
+    val p1:Int
+   
+    
+    
+ 
+    
+   
+  }
+   def mostrar(): String = {
+
+     
+    }
+}

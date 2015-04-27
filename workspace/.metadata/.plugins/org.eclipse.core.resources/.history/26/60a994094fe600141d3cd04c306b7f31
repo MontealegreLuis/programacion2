@@ -1,0 +1,195 @@
+import Array._
+object Concesion {
+  def main(args:Array[String]){
+    
+    println ("Concesionaria Uxiel")
+    println ("Autos nuevos unicamente")
+    println ("Tomamos tu auto usado a cuenta")
+    
+   var menugrande :Int=0
+   var menupeq :Int=0
+   var listvend = new Array[Vendedor](100)
+   var contvend=0
+   var listclient = new Array[Cliente](100)
+   var contclient=0
+   var contop=0
+   var listop = new Array[Opcion_Modelo](100)
+   var contmod=0
+   var listmod = new Array[Modelo](100)
+   var contauton=0
+   var listauton = new Array[Nuevo](100)
+   var listauxn= new Array[Int](100)
+   var contautou=0
+   
+   
+   
+    do{
+    println ("Escoja una opcion")
+    println ("1     Vendedor")
+    println ("2     Cliente")
+    println ("3     Opciones de autos")
+    println ("4    Vender un auto")
+    println ("0     Salir")
+    menugrande=readInt()
+    menugrande match {
+            case 1  => 
+                  do {
+                  println ("Escoja una opcion")
+                  println ("1     Registrar un Vendedor")
+                  println ("2     Mostrar lista de Vendedores")
+                  println ("0     Salir")
+                  menupeq=readInt
+                  menupeq match{
+                    case 1  => 
+                      println ("Registrar un Vendedor")
+                      println("Introduzca DNI")
+                      var DNI=readLine 
+                      println("Introduzca Nombre")
+                      var Nomb=readLine 
+                      println("Introduzca Direccion")
+                      var Dir=readLine
+                      println("Introduzca Telefono")
+                      var Tel=readInt 
+                      println("Introduzca Numero Seguro Social")
+                      var Nss=readInt
+                      println("Vendedores nuevos no tienen ventas registradas")
+                      var Vents=0
+                      listvend(contvend)=new Vendedor (DNI,Nomb,Dir,Tel,Nss,Vents)
+                      contvend +=1
+                      if (listvend(contvend).Nombre =="Aquilesba Hiloyo") println ("No jodas")
+                    case 2  => 
+                      if (contvend==0) println ("No es posible mostrar vendedores porque no hay ninguno registrado")
+                      else for (i <- 0 to contvend) println ("\nVendedor " + i + listvend(i))
+                    case 3  =>null
+                    case default=> println("Unexpected case")
+                  }
+                  }while (menupeq<0&&menupeq>3)  
+                  
+            
+            case 2  => 
+                  do {
+                  println ("Escoja una opcion")
+                  println ("1     Registrar un Cliente")
+                  println ("2     Mostrar lista de Clientes")
+                  println ("0     Salir")
+                  menupeq=readInt
+                  menupeq match{
+                    case 1  => 
+                      println ("Registrar un Cliente")
+                      println("Introduzca DNI")
+                      var DNI=readLine 
+                      println("Introduzca Nombre")
+                      var Nomb=readLine 
+                      println("Introduzca Direccion")
+                      var Dir=readLine
+                      println("Introduzca Telefono")
+                      var Tel=readInt 
+                      listclient(contclient)=new Cliente (DNI,Nomb,Dir,Tel)
+                      contclient +=1
+                    case 2  => 
+                      if (contclient==0) println ("No es posible mostrar clientes porque no hay ninguno registrado")
+                      else for (i <- 0 to contclient) println ("\nCliente " + i + listclient(i))
+                    case 3  =>null
+                    case default=> println("Unexpected case")
+                  }
+                  }while (menupeq<0&&menupeq>3) 
+            case 3  => 
+              
+                  do {
+                  println ("Escoja una opcion")
+                  println ("1     Registrar una opcion")
+                  println ("2     Registrar un modelo") 
+                  println ("3     Registrar un auto nuevo") 
+                  println ("4     Registrar un auto usado")
+                  println ("5     Mostrar opciones registradas")
+                  println ("6     Mostrar modelos registrados")
+                  println ("7     Mostrar autos nuevos")
+                  println ("0     Salir")
+                  menupeq=readInt
+                  menupeq match{
+                    case 1 => 
+                      println ("Como se llama la opcion " + contop+1)
+                      var nomop=readLine
+                      println ("Proporciona la descripcion del modelo")
+                      var d=readLine
+                      println ("Cual es el valor de esta opcion ")
+                      var co=readInt
+                      listop(contop)=new Opcion_Modelo (nomop,d,co)
+                      contop+=1
+                    case 2  => 
+                      println ("Cual es la marca")
+                      var n=readLine
+                      println ("Proporciona el modelo(año)")
+                      var d=readInt
+                      println ("Cual es la cilindrada")
+                      var co=readInt
+                      listmod(contmod)=new Modelo (n,d,co)
+                      contmod+=1
+                    case 3 =>
+                      if (contmod==0&&contop==0) println ("No se puede registrar un auto sin tener modelos u opciones disponibles")
+                      else (
+                          println ("Cual es la matricula")
+                          var mat=readLine
+                          println ("Proporciona el costo")
+                          var cos=readInt
+                          println ("Cual es la color")
+                          var col=readline
+                          println("Que modelo es")
+                          var mod=readInt
+                          println("Que opciones tiene")
+                          var op=readInt
+                          listmod(contmod)=new Nuevo (n,d,co)
+                          contmod+=1)
+                      
+                      
+                      
+                      
+                      
+                     
+                  }
+                  }while (menupeq<0&&menupeq>8)
+                   
+                    
+                    
+                    
+                    
+                    
+            case 4  => println("April")
+            case 5  => println("May")
+            case 6  => null
+  
+  // catch the default with a variable so you can print it
+            case whoa  => println("Unexpected case: " + whoa.toString)
+        
+    }
+    menugrande=0
+      }while (menugrande<0&&menugrande>5)
+    
+    var litsa_opciones_modelo = new Array[Opcion_Modelo](100)
+        
+    val a1=new Nuevo ("verde", "TVB-2018", 250000)
+   
+    val a2=new Opcion_Modelo ("chevy 98","Sin AA, Pintura al horno, Sistema manual, Direccion Manual", 3000)
+    println ("la opcion " + litsa_opciones_modelo(0).Nombre_Opcion + " tiene un coste de "+ litsa_opciones_modelo(0).Costo_Opcion)     
+    println ("Nuevo auto de color " + a1.Color + " Matricula " + a1.Matricula + " Con un valor de " + a1.Costo)
+  
+  
+}
+}
+
+/*i is an integer
+var i= match {
+  case 1  => println("January")
+  case 2  => println("February")
+  case 3  => println("March")
+  case 4  => println("April")
+  case 5  => println("May")
+  case 6  => println("June")
+  case 7  => println("July")
+  case 8  => println("August")
+  case 9  => println("September")
+  case 10 => println("October")
+  case 11 => println("November")
+  case 12 => println("December")
+  // catch the default with a variable so you can print it
+  case whoa  => println("Unexpected case: " + whoa.toString)*/

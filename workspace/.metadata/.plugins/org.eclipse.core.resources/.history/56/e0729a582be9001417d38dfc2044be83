@@ -1,0 +1,21 @@
+class Monedero(a:Int) {
+  val saldo:Int=a
+  var sal=0
+  
+  def Monedero (a:Int):Monedero={
+    new Monedero(a)
+  }
+  
+  def meter (a:Int){
+   var aux=0
+   do{
+     println("cantidad a ingresar")
+     aux=readInt
+   }while(aux<0)
+   sal+=aux;  
+  }
+  
+  
+  
+  
+}

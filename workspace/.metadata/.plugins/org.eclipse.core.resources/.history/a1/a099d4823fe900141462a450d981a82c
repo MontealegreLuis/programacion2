@@ -1,0 +1,11 @@
+abstract class Persona (a,b,c,d,e) {
+ val Name: String=a
+ val NSS: String=b
+ val Direccion: String=C
+ val Sexo: String=d
+ val Fecha_nac: String=e
+  
+  def this(){
+    this("","","","","")
+  }
+}

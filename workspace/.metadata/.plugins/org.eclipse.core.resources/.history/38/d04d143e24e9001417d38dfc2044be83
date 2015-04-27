@@ -1,0 +1,10 @@
+object Test {
+ def main(args: Array[String]){
+   
+   
+   val a1 = new Profesor ("oscar","T333n2","1 sur 100","masculino","222 dic", "Tiempo completo", 2, 202, 3221)
+   
+  
+ }
+  
+}

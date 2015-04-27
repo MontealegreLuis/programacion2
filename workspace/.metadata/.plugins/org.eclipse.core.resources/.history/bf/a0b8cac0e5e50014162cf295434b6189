@@ -1,0 +1,14 @@
+class Vendedor (a: String, b: String, c: String, d: Int, e:Int, f:Int)
+extends Persona(a,b,c,d) {
+ 
+ val NSS:Int=e
+ val VentasE:Int =f
+ 
+ override def Persona(a: String, b: String, c: String, d: Int):Persona={
+   this.NSS=e
+   this.VentasE=f
+   
+ }
+ 
+ 
+}

@@ -1,0 +1,19 @@
+class Alumno (f:String,g:String,h:Array[Seccion],i:Array[Nota]) extends Persona (a,b,c,d,e){
+  val Matricula=f
+  val Carrera=g
+  val Secciones=h
+  val Nota=i
+  
+  def Persona(a: String, b: String, c: String, d: String, e:String, f:String,g:String,h:Array[Seccion],i:Array[Nota]  ):Alumno={
+    new Alumno (Name, NSS, Direccion,  Sexo, Fecha_nac, this.Matricula, this.Carrera, this.Secciones, this.Nota)
+  }
+  
+  def this(){
+    this("","","","","","","",h[0],i[0]        )
+  }
+}
+
+/*Para los alumnos se tiene, 
+ * su matrícula, la carrera, las secciones en las que está o estuvo inscrito 
+ * y las notas que ha recibido en cada asignatura.*/
+ */

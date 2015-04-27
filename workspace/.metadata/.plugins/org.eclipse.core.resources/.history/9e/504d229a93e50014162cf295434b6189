@@ -1,0 +1,46 @@
+object concesionario {
+ 
+  def main(args: Array[String]){
+    
+    var eleccion:Int=0
+    
+var a1:Int=0
+var a2:Int=0
+var a3:Int=0
+var a4:Int=0
+var a5:Int=0
+var s1:String=" "
+var s2:String=" "
+var s3:String=" "
+var s4:String=" "
+var s5:String=" "
+val cliente:Array[cliente]
+    var i=0
+    
+    do{
+        println ("¿Que desea hacer?")
+        println ("1/Registrar un cliente")
+        println ("2/Resgistrar vendedor")
+        println ("3/Resgistrar auto nuevo")
+        println ("4/Resgistrar auto usado")
+        println ("5/Vender un auto")
+        println ("6/Salir")
+        if (eleccion==1)
+          println ("Introduzca DNI")
+          s1 = readLine()
+          println ("Intsroduzca Nombre")
+          s2 = readLine()
+          println ("Introduzca Direccion")
+          s3 = readLine()
+          println ("Introduzca Telefono")
+          a1= readInt()
+          val cliente[i] = new cliente(s1,s2,s3,a1)
+          
+          
+        
+        
+    }while(eleccion>=1 && eleccion<=6)
+   
+    }
+}
+

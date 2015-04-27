@@ -1,0 +1,12 @@
+abstract class Persona {
+  
+  //atributos
+  val DNI:String
+  val Nombre:String
+  val Direccion:String
+  val telefono:Int
+  
+ //metodos
+  
+  
+}

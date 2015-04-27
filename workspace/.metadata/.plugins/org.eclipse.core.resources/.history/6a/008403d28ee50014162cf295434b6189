@@ -1,0 +1,5 @@
+class cliente extends Persona {
+ class Persona{
+    new cliente()
+  }
+}

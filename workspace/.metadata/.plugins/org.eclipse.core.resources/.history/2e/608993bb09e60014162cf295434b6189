@@ -1,0 +1,9 @@
+object main {
+def main(args: Array[String]){
+  
+    val a1= new Nuevo
+    
+    println (a1)
+  
+  }
+}

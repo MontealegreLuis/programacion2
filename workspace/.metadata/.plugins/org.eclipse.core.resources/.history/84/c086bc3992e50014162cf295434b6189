@@ -1,0 +1,11 @@
+class Vendedor (i: String, b: String, d: String, t: Int, n: Int, v: Int) extends Persona(i, b, d, t) {
+  
+  val NSS:Int
+  val VentasE:Int
+  class Vendedor(){
+    new Vendedor
+  }
+  def Persona():Persona={
+    new Vendedor()
+  }
+}

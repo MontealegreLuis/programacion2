@@ -1,0 +1,12 @@
+abstract class Persona (val DNI: String, val Nombre: String, val Direccion: String, val Telefono: Int) {
+  //atributos
+
+ //metodos
+  def Persona():Persona
+  
+}
+/*class Student(n: String, a: Int, rn: String) 
+
+ extends Person(n, a) {
+
+ val registrationNumber = rn*/

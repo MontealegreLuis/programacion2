@@ -1,0 +1,10 @@
+object concesionario {
+ 
+  def main (args:Array[String]){
+   
+   println ("¿Que desea hacer?")
+   
+   
+ }
+
+}

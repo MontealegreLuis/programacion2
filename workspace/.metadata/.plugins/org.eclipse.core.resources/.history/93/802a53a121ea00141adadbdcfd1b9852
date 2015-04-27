@@ -1,0 +1,14 @@
+class Departamento (val Nomre_depto:String, val Directo:String, val Telefono:Int,){
+  
+    def this(){
+    this("","",0)
+    }
+    
+    def Agregardepto (x:Departamento):Departamento={
+      println 
+    }
+    
+  /*Para cada departamento se guarda su 
+   * nombre, teléfono, y quien es su director (un profesor).
+   * */
+}

@@ -1,0 +1,11 @@
+class Automovil (nuevo: Boolean, matricula: Int, color:String ){
+ 
+  val Nuevo: Boolean = false
+  val Matricula : Int =0
+  val Color : String = ""
+  
+  
+  
+  
+  
+}

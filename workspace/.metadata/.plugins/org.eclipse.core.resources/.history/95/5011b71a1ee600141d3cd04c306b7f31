@@ -1,0 +1,11 @@
+object main {
+def main(args: Array[String]){
+  
+  
+  
+  val a1=new Nuevo ("rojo", "TVB-2018", 250000)
+    
+    println ("Nuevo auto de color \b" + a1.Color + " ;matricula " + a1.Matricula)
+  
+  }
+}

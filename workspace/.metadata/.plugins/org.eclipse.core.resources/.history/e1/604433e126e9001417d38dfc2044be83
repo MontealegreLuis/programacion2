@@ -1,0 +1,9 @@
+class Monedero {
+  val saldo:Int=a
+  
+  def Modero (saldo:Int):Monedero={
+    new Monedero(saldo)
+  }
+  
+
+}

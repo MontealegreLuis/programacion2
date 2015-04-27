@@ -1,0 +1,5 @@
+class cliente extends Persona {
+ def cliente(){
+    new cliente
+  }
+}

@@ -1,0 +1,7 @@
+class Automovil {
+ 
+  val Nuevo: Boolean 
+  val Matricula : Int 
+  val Color : String 
+  val Modelo = new Modelo 
+}

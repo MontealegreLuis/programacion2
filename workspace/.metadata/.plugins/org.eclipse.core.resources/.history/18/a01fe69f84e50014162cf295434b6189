@@ -1,0 +1,8 @@
+class Vendedor extends Persona {
+  
+  val NSS:Int
+  val VentasE:Int
+  class Vendedor(){
+    new Vendedor
+  }
+}

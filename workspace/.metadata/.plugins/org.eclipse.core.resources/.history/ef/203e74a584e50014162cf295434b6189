@@ -1,0 +1,7 @@
+class Usado extends Automovil {
+  val Kilometraje:Int 
+  val Valor: Int
+  class Automovil_usado(){
+    new Automovil_usado
+  }
+}

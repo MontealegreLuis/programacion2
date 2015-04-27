@@ -1,0 +1,9 @@
+abstract class Persona (a: String, b: String, c: String, d: String, e:String) {
+  val Name:String
+  val NSS:String
+  val Direccion:String
+  val Sexo:String
+  val Fecha_nac:String
+ 
+  def Persona
+}

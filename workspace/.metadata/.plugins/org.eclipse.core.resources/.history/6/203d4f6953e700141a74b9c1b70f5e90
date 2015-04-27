@@ -1,0 +1,3 @@
+class Persona (val DNI: String,  val Nombre: String,  val Direccion: String,  val Telefono: Int){
+  
+}

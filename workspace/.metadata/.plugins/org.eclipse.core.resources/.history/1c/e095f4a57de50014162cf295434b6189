@@ -1,0 +1,16 @@
+object concesionario {
+ 
+  def main(args: Array[String]){
+   
+   println ("¿Que desea hacer?")
+   val vendedor=new Vendedor
+
+        /*rectangulo.cambiarColor("rojo")
+
+        val lienzo = new Lienzo()
+        println(lienzo.mostrarFiguras(
+            Array(circulo, rectangulo)*/
+
+}
+
+}

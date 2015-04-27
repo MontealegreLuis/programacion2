@@ -1,0 +1,10 @@
+abstract class Automovil (a:String,b:Int){
+ 
+  val Color : String =a
+  val Matricula : Int =b
+  
+  
+  def Automovil ()={
+    
+  }
+}
